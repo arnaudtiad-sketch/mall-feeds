@@ -1,108 +1,119 @@
-<?xml version="1.0" encoding="utf-8"?>
 <ITEMS>
-  <ITEM>
-    <ID>211663INVASION</ID>
-    <STAGE>draft</STAGE>
-    <CATEGORY_ID>EF016</CATEGORY_ID>
-    <BRAND_ID>FreakinGood</BRAND_ID>
-    <TITLE></TITLE>
-    <SHORTDESC></SHORTDESC>
-    <LONGDESC><![CDATA[]]></LONGDESC>
-    <PRIORITY>1</PRIORITY>
-    <PACKAGE_SIZE>smallbox</PACKAGE_SIZE>
-    <BARCODE>6941379055694</BARCODE>
-    <PRICE>https://cdn.chv.me/images/YakAlKaf.jpeg</PRICE>
-    <VAT>22</VAT>
-    <RRP>https://cdn.chv.me/images/YakAlKaf.jpeg</RRP>
-    <PARAM>
-      <NAME>TYPE_EF016</NAME>
-      <VALUE>ostalo</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>LISTING_DESCRIPTION</NAME>
-      <VALUE>osnovno</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>TYPE_OF_MOBILE_PHONE_AND</NAME>
-      <VALUE>univerzalno</VALUE>
-    </PARAM>
-    <DIMENSIONS>
-      <WEIGHT>0</WEIGHT>
-      <WIDTH>0</WIDTH>
-      <HEIGHT>0</HEIGHT>
-      <LENGTH>0</LENGTH>
-    </DIMENSIONS>
-    <TARIC_CODE></TARIC_CODE>
-    <DELIVERY_DELAY>2</DELIVERY_DELAY>
-  </ITEM>
-  <ITEM>
-    <ID>211662INVASION</ID>
-    <STAGE>draft</STAGE>
-    <CATEGORY_ID>EF016</CATEGORY_ID>
-    <BRAND_ID>FreakinGood</BRAND_ID>
-    <TITLE></TITLE>
-    <SHORTDESC></SHORTDESC>
-    <LONGDESC><![CDATA[]]></LONGDESC>
-    <PRIORITY>1</PRIORITY>
-    <PACKAGE_SIZE>smallbox</PACKAGE_SIZE>
-    <BARCODE>6941379055687</BARCODE>
-    <PRICE>https://cdn.chv.me/images/XakAzTPj.jpeg</PRICE>
-    <VAT>22</VAT>
-    <RRP>https://cdn.chv.me/images/XakAzTPj.jpeg</RRP>
-    <PARAM>
-      <NAME>TYPE_EF016</NAME>
-      <VALUE>ostalo</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>LISTING_DESCRIPTION</NAME>
-      <VALUE>osnovno</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>TYPE_OF_MOBILE_PHONE_AND</NAME>
-      <VALUE>univerzalno</VALUE>
-    </PARAM>
-    <DIMENSIONS>
-      <WEIGHT>0</WEIGHT>
-      <WIDTH>0</WIDTH>
-      <HEIGHT>0</HEIGHT>
-      <LENGTH>0</LENGTH>
-    </DIMENSIONS>
-    <TARIC_CODE></TARIC_CODE>
-    <DELIVERY_DELAY>2</DELIVERY_DELAY>
-  </ITEM>
-  <ITEM>
-    <ID>211661INVASION</ID>
-    <STAGE>draft</STAGE>
-    <CATEGORY_ID>EF016</CATEGORY_ID>
-    <BRAND_ID>FreakinGood</BRAND_ID>
-    <TITLE></TITLE>
-    <SHORTDESC></SHORTDESC>
-    <LONGDESC><![CDATA[]]></LONGDESC>
-    <PRIORITY>1</PRIORITY>
-    <PACKAGE_SIZE>smallbox</PACKAGE_SIZE>
-    <BARCODE>6941379055670</BARCODE>
-    <PRICE>https://cdn.chv.me/images/WakAGU1t.jpeg</PRICE>
-    <VAT>22</VAT>
-    <RRP>https://cdn.chv.me/images/WakAGU1t.jpeg</RRP>
-    <PARAM>
-      <NAME>TYPE_EF016</NAME>
-      <VALUE>ostalo</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>LISTING_DESCRIPTION</NAME>
-      <VALUE>osnovno</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>TYPE_OF_MOBILE_PHONE_AND</NAME>
-      <VALUE>univerzalno</VALUE>
-    </PARAM>
-    <DIMENSIONS>
-      <WEIGHT>0</WEIGHT>
-      <WIDTH>0</WIDTH>
-      <HEIGHT>0</HEIGHT>
-      <LENGTH>0</LENGTH>
-    </DIMENSIONS>
-    <TARIC_CODE></TARIC_CODE>
-    <DELIVERY_DELAY>2</DELIVERY_DELAY>
-  </ITEM>
+<ITEM>
+<ID>211663INVASION</ID>
+<STAGE>draft</STAGE>
+<CATEGORY_ID>EF016</CATEGORY_ID>
+<BRAND_ID>FreakinGood</BRAND_ID>
+<TITLE>Univerzalni mobilni dodatek 1</TITLE>
+<SHORTDESC>Univerzalni mobilni dodatek.</SHORTDESC>
+<LONGDESC><![CDATA[<p>Univerzalni mobilni dodatek – testni opis.</p>]]></LONGDESC>
+<PRIORITY>1</PRIORITY>
+<PACKAGE_SIZE>smallbox</PACKAGE_SIZE>
+<BARCODE>6941379055694</BARCODE>
+<PRICE>9.99</PRICE>
+<VAT>22</VAT>
+<RRP>9.99</RRP>
+<PARAM>
+<NAME>TYPE_EF016</NAME>
+<VALUE>ostalo</VALUE>
+</PARAM>
+<PARAM>
+<NAME>LISTING_DESCRIPTION</NAME>
+<VALUE>osnovno</VALUE>
+</PARAM>
+<PARAM>
+<NAME>TYPE_OF_MOBILE_PHONE_AND</NAME>
+<VALUE>univerzalno</VALUE>
+</PARAM>
+<DIMENSIONS>
+<WEIGHT>0.2</WEIGHT>
+<WIDTH>10</WIDTH>
+<HEIGHT>5</HEIGHT>
+<LENGTH>15</LENGTH>
+</DIMENSIONS>
+<TARIC_CODE>85177900</TARIC_CODE>
+<DELIVERY_DELAY>2</DELIVERY_DELAY>
+<MEDIA>
+<URL>https://cdn.chv.me/images/YakAlKaf.jpeg</URL>
+<MAIN>true</MAIN>
+</MEDIA>
+</ITEM>
+<ITEM>
+<ID>211662INVASION</ID>
+<STAGE>draft</STAGE>
+<CATEGORY_ID>EF016</CATEGORY_ID>
+<BRAND_ID>FreakinGood</BRAND_ID>
+<TITLE>Univerzalni mobilni dodatek 2</TITLE>
+<SHORTDESC>Univerzalni mobilni dodatek.</SHORTDESC>
+<LONGDESC><![CDATA[<p>Univerzalni mobilni dodatek – testni opis.</p>]]></LONGDESC>
+<PRIORITY>1</PRIORITY>
+<PACKAGE_SIZE>smallbox</PACKAGE_SIZE>
+<BARCODE>6941379055687</BARCODE>
+<PRICE>9.99</PRICE>
+<VAT>22</VAT>
+<RRP>9.99</RRP>
+<PARAM>
+<NAME>TYPE_EF016</NAME>
+<VALUE>ostalo</VALUE>
+</PARAM>
+<PARAM>
+<NAME>LISTING_DESCRIPTION</NAME>
+<VALUE>osnovno</VALUE>
+</PARAM>
+<PARAM>
+<NAME>TYPE_OF_MOBILE_PHONE_AND</NAME>
+<VALUE>univerzalno</VALUE>
+</PARAM>
+<DIMENSIONS>
+<WEIGHT>0.2</WEIGHT>
+<WIDTH>10</WIDTH>
+<HEIGHT>5</HEIGHT>
+<LENGTH>15</LENGTH>
+</DIMENSIONS>
+<TARIC_CODE>85177900</TARIC_CODE>
+<DELIVERY_DELAY>2</DELIVERY_DELAY>
+<MEDIA>
+<URL>https://cdn.chv.me/images/XakAzTPj.jpeg</URL>
+<MAIN>true</MAIN>
+</MEDIA>
+</ITEM>
+<ITEM>
+<ID>211661INVASION</ID>
+<STAGE>draft</STAGE>
+<CATEGORY_ID>EF016</CATEGORY_ID>
+<BRAND_ID>FreakinGood</BRAND_ID>
+<TITLE>Univerzalni mobilni dodatek 3</TITLE>
+<SHORTDESC>Univerzalni mobilni dodatek.</SHORTDESC>
+<LONGDESC><![CDATA[<p>Univerzalni mobilni dodatek – testni opis.</p>]]></LONGDESC>
+<PRIORITY>1</PRIORITY>
+<PACKAGE_SIZE>smallbox</PACKAGE_SIZE>
+<BARCODE>6941379055670</BARCODE>
+<PRICE>9.99</PRICE>
+<VAT>22</VAT>
+<RRP>9.99</RRP>
+<PARAM>
+<NAME>TYPE_EF016</NAME>
+<VALUE>ostalo</VALUE>
+</PARAM>
+<PARAM>
+<NAME>LISTING_DESCRIPTION</NAME>
+<VALUE>osnovno</VALUE>
+</PARAM>
+<PARAM>
+<NAME>TYPE_OF_MOBILE_PHONE_AND</NAME>
+<VALUE>univerzalno</VALUE>
+</PARAM>
+<DIMENSIONS>
+<WEIGHT>0.2</WEIGHT>
+<WIDTH>10</WIDTH>
+<HEIGHT>5</HEIGHT>
+<LENGTH>15</LENGTH>
+</DIMENSIONS>
+<TARIC_CODE>85177900</TARIC_CODE>
+<DELIVERY_DELAY>2</DELIVERY_DELAY>
+<MEDIA>
+<URL>https://cdn.chv.me/images/WakAGU1t.jpeg</URL>
+<MAIN>true</MAIN>
+</MEDIA>
+</ITEM>
 </ITEMS>
