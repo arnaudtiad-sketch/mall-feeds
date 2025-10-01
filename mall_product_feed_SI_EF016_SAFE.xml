@@ -1,77 +1,149 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <ITEMS>
-  <ITEM>
-    <ID>211663INVASION</ID>
-    <STAGE>draft</STAGE>
-    <CATEGORY_ID>EF016</CATEGORY_ID>
-    <BRAND_ID>UNBRANDED</BRAND_ID>
-    <TITLE>Q6 Mobilni telefon Gimbal Inteligentni sledilni selfie palica 360-stopinjski vrtljivi nosilec stojalo za kamero</TITLE>
-    <SHORTDESC>Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sledenje obraza, nosilec za mobilni telefon in kamera za sledenje objektov, ki vam pomaga rešiti težave. Naj vas mobilni telefon sledi in ne prosite več za pomoč pri snemanju selfijev. Sledenje objektom, pametno sledenje:</SHORTDESC>
-    <LONGDESC><![CDATA[ Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sledenje obraza, nosilec za mobilni telefon in kamera za sledenje objektov, ki vam pomaga rešiti težave. Naj vas mobilni telefon sledi in ne prosite več za pomoč pri snemanju selfijev. Sledenje objektom, pametno sledenje: palica za selfije za mobilni telefon lahko sledi objektom v realnem času in sledi gibanju objektov. Podpora velikosti mobilnega telefona: 56–100 mm. Za najboljši učinek spremljanja priporočamo uporabo le ene scene. ]]></LONGDESC>
-    <PRIORITY>1</PRIORITY>
-    <PACKAGE_SIZE>smallbox</PACKAGE_SIZE>
-    <BARCODE>6941379055694</BARCODE>
-    <PRICE>16.53</PRICE>
-    <VAT>22</VAT>
-    <RRP>16.53</RRP>
-    <PARAM><NAME>TYPE_EF016</NAME><VALUE>ostalo</VALUE></PARAM>
-    <PARAM><NAME>LISTING_DESCRIPTION</NAME><VALUE>osnovno</VALUE></PARAM>
-    <PARAM><NAME>TYPE_OF_MOBILE_PHONE_AND</NAME><VALUE>univerzalno</VALUE></PARAM>
-    <DIMENSIONS><WEIGHT>0.2</WEIGHT><WIDTH>10</WIDTH><HEIGHT>5</HEIGHT><LENGTH>15</LENGTH></DIMENSIONS>
-    <TARIC_CODE>85177900</TARIC_CODE>
-    <DELIVERY_DELAY>2</DELIVERY_DELAY>
-    <MEDIA><URL>https://cdn.chv.me/images/YakAwEbd.jpeg</URL><MAIN>true</MAIN></MEDIA>
-    <MEDIA><URL>https://cdn.chv.me/images/YakAZide.jpeg</URL><MAIN>false</MAIN></MEDIA>
-    <MEDIA><URL>https://cdn.chv.me/images/YakAlKaf.jpeg</URL><MAIN>false</MAIN></MEDIA>
-  </ITEM>
-
-  <ITEM>
-    <ID>211662INVASION</ID>
-    <STAGE>draft</STAGE>
-    <CATEGORY_ID>EF016</CATEGORY_ID>
-    <BRAND_ID>UNBRANDED</BRAND_ID>
-    <TITLE>Q6 Mobilni telefon Gimbal Inteligentni sledilni selfie palica 360-stopinjski vrtljivi nosilec stojalo za kamero črna</TITLE>
-    <SHORTDESC>Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sledenje obraza, nosilec za mobilni telefon in kamera za sledenje objektov, ki vam pomaga rešiti težave. Naj vas mobilni telefon sledi in ne prosite več za pomoč pri snemanju selfijev. Sledenje objektom, pametno sledenje:</SHORTDESC>
-    <LONGDESC><![CDATA[ Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sledenje obraza, nosilec za mobilni telefon in kamera za sledenje objektov, ki vam pomaga rešiti težave. Naj vas mobilni telefon sledi in ne prosite več za pomoč pri snemanju selfijev. Sledenje objektom, pametno sledenje: palica za selfije za mobilni telefon lahko sledi objektom v realnem času in sledi gibanju objektov. Podpora velikosti mobilnega telefona: 56–100 mm. Za najboljši učinek spremljanja priporočamo uporabo le ene scene. ]]></LONGDESC>
-    <PRIORITY>1</PRIORITY>
-    <PACKAGE_SIZE>smallbox</PACKAGE_SIZE>
-    <BARCODE>6941379055687</BARCODE>
-    <PRICE>16.53</PRICE>
-    <VAT>22</VAT>
-    <RRP>16.53</RRP>
-    <PARAM><NAME>TYPE_EF016</NAME><VALUE>ostalo</VALUE></PARAM>
-    <PARAM><NAME>LISTING_DESCRIPTION</NAME><VALUE>osnovno</VALUE></PARAM>
-    <PARAM><NAME>TYPE_OF_MOBILE_PHONE_AND</NAME><VALUE>univerzalno</VALUE></PARAM>
-    <DIMENSIONS><WEIGHT>0.2</WEIGHT><WIDTH>10</WIDTH><HEIGHT>5</HEIGHT><LENGTH>15</LENGTH></DIMENSIONS>
-    <TARIC_CODE>85177900</TARIC_CODE>
-    <DELIVERY_DELAY>2</DELIVERY_DELAY>
-    <MEDIA><URL>https://cdn.chv.me/images/XakA9Y4h.jpeg</URL><MAIN>true</MAIN></MEDIA>
-    <MEDIA><URL>https://cdn.chv.me/images/XakAJxYi.jpeg</URL><MAIN>false</MAIN></MEDIA>
-    <MEDIA><URL>https://cdn.chv.me/images/XakAzTPj.jpeg</URL><MAIN>false</MAIN></MEDIA>
-  </ITEM>
-
-  <ITEM>
-    <ID>211661INVASION</ID>
-    <STAGE>draft</STAGE>
-    <CATEGORY_ID>EF016</CATEGORY_ID>
-    <BRAND_ID>UNBRANDED</BRAND_ID>
-    <TITLE>Q1 Avtomatski pametni selfie palica 360 stopinj vrtenja Nosilec za mobilni telefon Sledenje obrazu Kamera Gimbal</TITLE>
-    <SHORTDESC>Sledenje obrazu podpira uvedbo tehnologije sinteze slik AI in oceno velikosti človeškega telesa pri pametnem fotografiranju, 360-stopinjskem vrtenju. Enostavno upravljanje: najprej prenesite programsko opremo na mobilni telefon, ni potrebna registracija in prijava. Nato vklopite gumb za vklop, p</SHORTDESC>
-    <LONGDESC><![CDATA[ Sledenje obrazu podpira uvedbo tehnologije sinteze slik AI in oceno velikosti človeškega telesa pri pametnem fotografiranju, 360-stopinjskem vrtenju. Enostavno upravljanje: najprej prenesite programsko opremo na mobilni telefon, ni potrebna registracija in prijava. Nato vklopite gumb za vklop, pritisnite in držite gumb za vklop 5 sekund, rdeča lučka se prižge, vklopite brezžični mobilni telefon in se samodejno povežite. Podprta velikost mobilnega telefona: 56–100 mm Velikost: premer 92 x višina 180 mm ]]></LONGDESC>
-    <PRIORITY>1</PRIORITY>
-    <PACKAGE_SIZE>smallbox</PACKAGE_SIZE>
-    <BARCODE>6941379055670</BARCODE>
-    <PRICE>21.54</PRICE>
-    <VAT>22</VAT>
-    <RRP>21.54</RRP>
-    <PARAM><NAME>TYPE_EF016</NAME><VALUE>ostalo</VALUE></PARAM>
-    <PARAM><NAME>LISTING_DESCRIPTION</NAME><VALUE>osnovno</VALUE></PARAM>
-    <PARAM><NAME>TYPE_OF_MOBILE_PHONE_AND</NAME><VALUE>univerzalno</VALUE></PARAM>
-    <DIMENSIONS><WEIGHT>0.2</WEIGHT><WIDTH>10</WIDTH><HEIGHT>5</HEIGHT><LENGTH>15</LENGTH></DIMENSIONS>
-    <TARIC_CODE>85177900</TARIC_CODE>
-    <DELIVERY_DELAY>2</DELIVERY_DELAY>
-    <MEDIA><URL>https://cdn.chv.me/images/WakAenfs.jpeg</URL><MAIN>true</MAIN></MEDIA>
-    <MEDIA><URL>https://cdn.chv.me/images/WakAycet.jpeg</URL><MAIN>false</MAIN></MEDIA>
-    <MEDIA><URL>https://cdn.chv.me/images/WakAGU1t.jpeg</URL><MAIN>false</MAIN></MEDIA>
-  </ITEM>
+<ITEM>
+<ID>211663INVASION</ID>
+<STAGE>draft</STAGE>
+<CATEGORY_ID>EF016</CATEGORY_ID>
+<BRAND_ID>FREAKINGOOD</BRAND_ID>
+<TITLE>Q6 Mobilni telefon Gimbal Inteligentni sledilni selfie palica 360-stopinjski vrtljivi nosilec stojalo za kamero</TITLE>
+<SHORTDESC>Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sledenje obraza, nosilec za mobilni telefon in kamera za sledenje objektov, ki vam pomaga rešiti težave. Naj vas mobilni telefon sledi in ne prosite več za pomoč pri snemanju selfijev. Sledenje objektom, pametno sledenje: </SHORTDESC>
+<LONGDESC>
+<![CDATA[ Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sledenje obraza, nosilec za mobilni telefon in kamera za sledenje objektov, ki vam pomaga rešiti težave. Naj vas mobilni telefon sledi in ne prosite več za pomoč pri snemanju selfijev. Sledenje objektom, pametno sledenje: palica za selfije za mobilni telefon lahko sledi objektom v realnem času in sledi gibanju objektov. Podpora velikosti mobilnega telefona: 56–100 mm. Za najboljši učinek spremljanja priporočamo uporabo le ene scene. ]]>
+</LONGDESC>
+<PRIORITY>1</PRIORITY>
+<PACKAGE_SIZE>smallbox</PACKAGE_SIZE>
+<BARCODE>6941379055694</BARCODE>
+<PRICE>59.508</PRICE>
+<VAT>22</VAT>
+<RRP>59.508</RRP>
+<PARAM>
+<NAME>TYPE_EF016</NAME>
+<VALUE>ostalo</VALUE>
+</PARAM>
+<PARAM>
+<NAME>LISTING_DESCRIPTION</NAME>
+<VALUE>osnovno</VALUE>
+</PARAM>
+<PARAM>
+<NAME>TYPE_OF_MOBILE_PHONE_AND</NAME>
+<VALUE>univerzalno</VALUE>
+</PARAM>
+<DIMENSIONS>
+<WEIGHT>0.2</WEIGHT>
+<WIDTH>10</WIDTH>
+<HEIGHT>5</HEIGHT>
+<LENGTH>15</LENGTH>
+</DIMENSIONS>
+<TARIC_CODE>85177900</TARIC_CODE>
+<DELIVERY_DELAY>2</DELIVERY_DELAY>
+<MEDIA>
+<URL>https://cdn.chv.me/images/YakAwEbd.jpeg</URL>
+<MAIN>true</MAIN>
+</MEDIA>
+<MEDIA>
+<URL>https://cdn.chv.me/images/YakAZide.jpeg</URL>
+<MAIN>false</MAIN>
+</MEDIA>
+<MEDIA>
+<URL>https://cdn.chv.me/images/YakAlKaf.jpeg</URL>
+<MAIN>false</MAIN>
+</MEDIA>
+</ITEM>
+<ITEM>
+<ID>211662INVASION</ID>
+<STAGE>draft</STAGE>
+<CATEGORY_ID>EF016</CATEGORY_ID>
+<BRAND_ID>FREAKINGOOD</BRAND_ID>
+<TITLE>Q6 Mobilni telefon Gimbal Inteligentni sledilni selfie palica 360-stopinjski vrtljivi nosilec stojalo za kamero črna</TITLE>
+<SHORTDESC>Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sledenje obraza, nosilec za mobilni telefon in kamera za sledenje objektov, ki vam pomaga rešiti težave. Naj vas mobilni telefon sledi in ne prosite več za pomoč pri snemanju selfijev. Sledenje objektom, pametno sledenje: </SHORTDESC>
+<LONGDESC>
+<![CDATA[ Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sledenje obraza, nosilec za mobilni telefon in kamera za sledenje objektov, ki vam pomaga rešiti težave. Naj vas mobilni telefon sledi in ne prosite več za pomoč pri snemanju selfijev. Sledenje objektom, pametno sledenje: palica za selfije za mobilni telefon lahko sledi objektom v realnem času in sledi gibanju objektov. Podpora velikosti mobilnega telefona: 56–100 mm. Za najboljši učinek spremljanja priporočamo uporabo le ene scene. ]]>
+</LONGDESC>
+<PRIORITY>1</PRIORITY>
+<PACKAGE_SIZE>smallbox</PACKAGE_SIZE>
+<BARCODE>6941379055687</BARCODE>
+<PRICE>59.508</PRICE>
+<VAT>22</VAT>
+<RRP>59.508</RRP>
+<PARAM>
+<NAME>TYPE_EF016</NAME>
+<VALUE>ostalo</VALUE>
+</PARAM>
+<PARAM>
+<NAME>LISTING_DESCRIPTION</NAME>
+<VALUE>osnovno</VALUE>
+</PARAM>
+<PARAM>
+<NAME>TYPE_OF_MOBILE_PHONE_AND</NAME>
+<VALUE>univerzalno</VALUE>
+</PARAM>
+<DIMENSIONS>
+<WEIGHT>0.2</WEIGHT>
+<WIDTH>10</WIDTH>
+<HEIGHT>5</HEIGHT>
+<LENGTH>15</LENGTH>
+</DIMENSIONS>
+<TARIC_CODE>85177900</TARIC_CODE>
+<DELIVERY_DELAY>2</DELIVERY_DELAY>
+<MEDIA>
+<URL>https://cdn.chv.me/images/XakA9Y4h.jpeg</URL>
+<MAIN>true</MAIN>
+</MEDIA>
+<MEDIA>
+<URL>https://cdn.chv.me/images/XakAJxYi.jpeg</URL>
+<MAIN>false</MAIN>
+</MEDIA>
+<MEDIA>
+<URL>https://cdn.chv.me/images/XakAzTPj.jpeg</URL>
+<MAIN>false</MAIN>
+</MEDIA>
+</ITEM>
+<ITEM>
+<ID>211661INVASION</ID>
+<STAGE>draft</STAGE>
+<CATEGORY_ID>EF016</CATEGORY_ID>
+<BRAND_ID>FREAKINGOOD</BRAND_ID>
+<TITLE>Q1 Avtomatski pametni selfie palica 360 stopinj vrtenja Nosilec za mobilni telefon Sledenje obrazu Kamera Gimbal</TITLE>
+<SHORTDESC>Sledenje obrazu podpira uvedbo tehnologije sinteze slik AI in oceno velikosti človeškega telesa pri pametnem fotografiranju, 360-stopinjskem vrtenju. Enostavno upravljanje: najprej prenesite programsko opremo na mobilni telefon, ni potrebna registracija in prijava. Nato vklopite gumb za vklop, p</SHORTDESC>
+<LONGDESC>
+<![CDATA[ Sledenje obrazu podpira uvedbo tehnologije sinteze slik AI in oceno velikosti človeškega telesa pri pametnem fotografiranju, 360-stopinjskem vrtenju. Enostavno upravljanje: najprej prenesite programsko opremo na mobilni telefon, ni potrebna registracija in prijava. Nato vklopite gumb za vklop, pritisnite in držite gumb za vklop 5 sekund, rdeča lučka se prižge, vklopite brezžični mobilni telefon in se samodejno povežite. Podprta velikost mobilnega telefona: 56–100 mm Velikost: premer 92 x višina 180 mm ]]>
+</LONGDESC>
+<PRIORITY>1</PRIORITY>
+<PACKAGE_SIZE>smallbox</PACKAGE_SIZE>
+<BARCODE>6941379055670</BARCODE>
+<PRICE>77.544</PRICE>
+<VAT>22</VAT>
+<RRP>77.544</RRP>
+<PARAM>
+<NAME>TYPE_EF016</NAME>
+<VALUE>ostalo</VALUE>
+</PARAM>
+<PARAM>
+<NAME>LISTING_DESCRIPTION</NAME>
+<VALUE>osnovno</VALUE>
+</PARAM>
+<PARAM>
+<NAME>TYPE_OF_MOBILE_PHONE_AND</NAME>
+<VALUE>univerzalno</VALUE>
+</PARAM>
+<DIMENSIONS>
+<WEIGHT>0.2</WEIGHT>
+<WIDTH>10</WIDTH>
+<HEIGHT>5</HEIGHT>
+<LENGTH>15</LENGTH>
+</DIMENSIONS>
+<TARIC_CODE>85177900</TARIC_CODE>
+<DELIVERY_DELAY>2</DELIVERY_DELAY>
+<MEDIA>
+<URL>https://cdn.chv.me/images/WakAenfs.jpeg</URL>
+<MAIN>true</MAIN>
+</MEDIA>
+<MEDIA>
+<URL>https://cdn.chv.me/images/WakAycet.jpeg</URL>
+<MAIN>false</MAIN>
+</MEDIA>
+<MEDIA>
+<URL>https://cdn.chv.me/images/WakAGU1t.jpeg</URL>
+<MAIN>false</MAIN>
+</MEDIA>
+</ITEM>
 </ITEMS>
