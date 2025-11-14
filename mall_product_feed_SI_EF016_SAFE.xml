@@ -1,166 +1,364 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ITEMS>
+<?xml version="1.0" ?>
+<items>
 
-  <ITEM>
-    <ID>211663INVASION</ID>
-    <STAGE>draft</STAGE>
-    <CATEGORY_ID>EF016</CATEGORY_ID>
+  <item>
+    <ID>211737INVASION</ID>
+    <category_id>ND401</category_id>
     <BRAND_ID>FREAKINGOOD</BRAND_ID>
-
-    <TITLE>Q6 Mobilni telefon Gimbal Inteligentni sledilni selfie palica 360-stopinjski vrtljivi nosilec stojalo za kamero</TITLE>
-    <SHORTDESC>Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sledenje obraza, nosilec za mobilni telefon in kamera za sledenje objektov, ki vam pomaga rešiti težave. Naj vas mobilni telefon sledi in ne prosite več za pomoč pri snemanju selfijev. Sledenje objektom, pametno sledenje: pali</SHORTDESC>
-    <LONGDESC><![CDATA[
-      Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sledenje obraza, nosilec za mobilni telefon in kamera za sledenje objektov, ki vam pomaga rešiti težave. Naj vas mobilni telefon sledi in ne prosite več za pomoč pri snemanju selfijev. Sledenje objektom, pametno sledenje: palica za selfije za mobilni telefon lahko sledi objektom v realnem času in sledi gibanju objektov. Podpora velikosti mobilnega telefona: 56–100 mm. Za najboljši učinek spremljanja priporočamo uporabo le ene scene.
-    ]]></LONGDESC>
-
-    <PRIORITY>1</PRIORITY>
-    <PACKAGE_SIZE>smallbox</PACKAGE_SIZE>
-    <BARCODE>6941379055694</BARCODE>
-
-    <PRICE>60.88</PRICE>
-    <VAT>22</VAT>
-    <RRP>60.88</RRP>
-
-    
-    <PARAM>
-      <NAME>LISTING_DESCRIPTION</NAME>
-      <VALUE>osnovno</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>TYPE_OF_MOBILE_PHONE_AND</NAME>
-      <VALUE>univerzalno</VALUE>
-    </PARAM>
-
-    <DIMENSIONS>
-      <WEIGHT>0.2</WEIGHT>
-      <WIDTH>10</WIDTH>
-      <HEIGHT>5</HEIGHT>
-      <LENGTH>15</LENGTH>
-    </DIMENSIONS>
-
-    <TARIC_CODE>85177900</TARIC_CODE>
+    <TITLE>Avto volan kolo zaklep proti kraji zaščite naprave varnostne ključavnice s ključi zlato črna</TITLE>
+    <SHORTDESC>Avto volan kolo zaklep proti kraji zaščite naprave varnostne ključavnice s ključi zlato črna</SHORTDESC>
+    <BARCODE>6941379056431</BARCODE>
+    <PRICE>149.88</PRICE>
     <DELIVERY_DELAY>2</DELIVERY_DELAY>
-
-    <MEDIA>
-      <URL>https://cdn.chv.me/images/YakAwEbd.jpeg</URL>
-      <MAIN>true</MAIN>
-    </MEDIA>
-    <MEDIA>
-      <URL>https://cdn.chv.me/images/YakAZide.jpeg</URL>
-      <MAIN>false</MAIN>
-    </MEDIA>
-    <MEDIA>
-      <URL>https://cdn.chv.me/images/YakAlKaf.jpeg</URL>
-      <MAIN>false</MAIN>
-    </MEDIA>
-  </ITEM>
-
-  <ITEM>
-    <ID>211662INVASION</ID>
-    <STAGE>draft</STAGE>
-    <CATEGORY_ID>EF016</CATEGORY_ID>
+    <LONGDESC>   Material: high-quality PU leather and steel, very good texture and long service life   Universal type for cars, light trucks and SUVs. Comes with 3 keys.   Anti-theft assistant, can ensure the safety of car, don't need to worry about being stolen.   When parking, please turn the steering wheel half a circle, and then lock it as shown in the figure.   If it is found that the lock body is not tight enough, you can adjust the gear of the steering wheel to prevent the steering wheel from turning   </LONGDESC>
+    <WEIGHT>0.2</WEIGHT>
+    <WIDTH>10</WIDTH>
+    <HEIGHT>5</HEIGHT>
+    <LENGTH>15</LENGTH>
+    <IMAGES>
+      <image>https://cdn.chv.me/images/dckAqs-G.jpeg</image>
+      <image>https://cdn.chv.me/images/dckA5BWH.jpeg</image>
+      <image>https://cdn.chv.me/images/dckAkCWI.jpeg</image>
+    </IMAGES>
+  </item>
+  <item>
+    <ID>211731INVASION</ID>
+    <category_id>ND401</category_id>
     <BRAND_ID>FREAKINGOOD</BRAND_ID>
-
-    <TITLE>Q6 Mobilni telefon Gimbal Inteligentni sledilni selfie palica 360-stopinjski vrtljivi nosilec stojalo za kamero črna</TITLE>
-    <SHORTDESC>Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sledenje obraza, nosilec za mobilni telefon in kamera za sledenje objektov, ki vam pomaga rešiti težave. Naj vas mobilni telefon sledi in ne prosite več za pomoč pri snemanju selfijev. Sledenje objektom, pametno sledenje: pali</SHORTDESC>
-    <LONGDESC><![CDATA[
-      Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sledenje obraza, nosilec za mobilni telefon in kamera za sledenje objektov, ki vam pomaga rešiti težave. Naj vas mobilni telefon sledi in ne prosite več za pomoč pri snemanju selfijev. Sledenje objektom, pametno sledenje: palica za selfije za mobilni telefon lahko sledi objektom v realnem času in sledi gibanju objektov. Podpora velikosti mobilnega telefona: 56–100 mm. Za najboljši učinek spremljanja priporočamo uporabo le ene scene.
-    ]]></LONGDESC>
-
-    <PRIORITY>1</PRIORITY>
-    <PACKAGE_SIZE>smallbox</PACKAGE_SIZE>
-    <BARCODE>6941379055687</BARCODE>
-
-    <PRICE>60.88</PRICE>
-    <VAT>22</VAT>
-    <RRP>60.88</RRP>
-
-    
-    <PARAM>
-      <NAME>LISTING_DESCRIPTION</NAME>
-      <VALUE>osnovno</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>TYPE_OF_MOBILE_PHONE_AND</NAME>
-      <VALUE>univerzalno</VALUE>
-    </PARAM>
-
-    <DIMENSIONS>
-      <WEIGHT>0.2</WEIGHT>
-      <WIDTH>10</WIDTH>
-      <HEIGHT>5</HEIGHT>
-      <LENGTH>15</LENGTH>
-    </DIMENSIONS>
-
-    <TARIC_CODE>85177900</TARIC_CODE>
+    <TITLE>Imetnik avtomobila telefon 15w Hitro polnjenje brezžični polnilec Smart Sensor Mobile Gps Navigation Podpora Bracket Gold Black</TITLE>
+    <SHORTDESC>Imetnik avtomobila telefon 15w Hitro polnjenje brezžični polnilec Smart Sensor Mobile Gps Navigation</SHORTDESC>
+    <BARCODE>6941379056370</BARCODE>
+    <PRICE>89.88</PRICE>
     <DELIVERY_DELAY>2</DELIVERY_DELAY>
-
-    <MEDIA>
-      <URL>https://cdn.chv.me/images/XakA9Y4h.jpeg</URL>
-      <MAIN>true</MAIN>
-    </MEDIA>
-    <MEDIA>
-      <URL>https://cdn.chv.me/images/XakAJxYi.jpeg</URL>
-      <MAIN>false</MAIN>
-    </MEDIA>
-    <MEDIA>
-      <URL>https://cdn.chv.me/images/XakAzTPj.jpeg</URL>
-      <MAIN>false</MAIN>
-    </MEDIA>
-  </ITEM>
-
-  <ITEM>
-    <ID>211661INVASION</ID>
-    <STAGE>draft</STAGE>
-    <CATEGORY_ID>EF016</CATEGORY_ID>
+    <LONGDESC>   Wireless charging effective distance: 3~6mm.   Silent motor without noise, quiet and comfortable to use. And support multiple opening and closing after power failure.   Button indication light, convenient to use.   Air outlet stabilizer: Extended air outlet clip design, and double heat dissipation holes to avoid high temperature affecting charging.   Super adaptation, support all kinds of large-screen mobile phones.   </LONGDESC>
+    <WEIGHT>0.2</WEIGHT>
+    <WIDTH>10</WIDTH>
+    <HEIGHT>5</HEIGHT>
+    <LENGTH>15</LENGTH>
+    <IMAGES>
+      <image>https://cdn.chv.me/images/8bkAC3Lv.jpeg</image>
+      <image>https://cdn.chv.me/images/8bkA7aFw.jpeg</image>
+      <image>https://cdn.chv.me/images/8bkA6dpx.jpeg</image>
+    </IMAGES>
+  </item>
+  <item>
+    <ID>211628INVASION</ID>
+    <category_id>ND401</category_id>
     <BRAND_ID>FREAKINGOOD</BRAND_ID>
-
-    <TITLE>Q1 Avtomatski pametni selfie palica 360 stopinj vrtenja Nosilec za mobilni telefon Sledenje obrazu Kamera Gimbal</TITLE>
-    <SHORTDESC>Sledenje obrazu podpira uvedbo tehnologije sinteze slik AI in oceno velikosti človeškega telesa pri pametnem fotografiranju, 360-stopinjskem vrtenju. Enostavno upravljanje: najprej prenesite programsko opremo na mobilni telefon, ni potrebna registracija in prijava. Nato vklopite gumb za vklop, priti</SHORTDESC>
-    <LONGDESC><![CDATA[
-      Sledenje obrazu podpira uvedbo tehnologije sinteze slik AI in oceno velikosti človeškega telesa pri pametnem fotografiranju, 360-stopinjskem vrtenju. Enostavno upravljanje: najprej prenesite programsko opremo na mobilni telefon, ni potrebna registracija in prijava. Nato vklopite gumb za vklop, pritisnite in držite gumb za vklop 5 sekund, rdeča lučka se prižge, vklopite brezžični mobilni telefon in se samodejno povežite. Podprta velikost mobilnega telefona: 56–100 mm Velikost: premer 92 x višina 180 mm
-    ]]></LONGDESC>
-
-    <PRIORITY>1</PRIORITY>
-    <PACKAGE_SIZE>smallbox</PACKAGE_SIZE>
-    <BARCODE>6941379055670</BARCODE>
-
-    <PRICE>78.88</PRICE>
-    <VAT>22</VAT>
-    <RRP>78.88</RRP>
-
-    
-    <PARAM>
-      <NAME>LISTING_DESCRIPTION</NAME>
-      <VALUE>osnovno</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>TYPE_OF_MOBILE_PHONE_AND</NAME>
-      <VALUE>univerzalno</VALUE>
-    </PARAM>
-
-    <DIMENSIONS>
-      <WEIGHT>0.2</WEIGHT>
-      <WIDTH>10</WIDTH>
-      <HEIGHT>5</HEIGHT>
-      <LENGTH>15</LENGTH>
-    </DIMENSIONS>
-
-    <TARIC_CODE>85177900</TARIC_CODE>
+    <TITLE>Adapter za iPhone Carplay Avto žica Nadzorovana Dongle Prenosni USB C Smart Box Plug Predvajaj tip C Bela</TITLE>
+    <SHORTDESC>Adapter za iPhone Carplay Avto žica Nadzorovana Dongle Prenosni USB C Smart Box Plug Predvajaj tip C</SHORTDESC>
+    <BARCODE>6941379055342</BARCODE>
+    <PRICE>149.88</PRICE>
     <DELIVERY_DELAY>2</DELIVERY_DELAY>
-
-    <MEDIA>
-      <URL>https://cdn.chv.me/images/WakAenfs.jpeg</URL>
-      <MAIN>true</MAIN>
-    </MEDIA>
-    <MEDIA>
-      <URL>https://cdn.chv.me/images/WakAycet.jpeg</URL>
-      <MAIN>false</MAIN>
-    </MEDIA>
-    <MEDIA>
-      <URL>https://cdn.chv.me/images/WakAGU1t.jpeg</URL>
-      <MAIN>false</MAIN>
-    </MEDIA>
-  </ITEM>
-
-</ITEMS>
+    <LONGDESC>   Wire-controlled compatible for CarPlay Dongle: The adapter can quickly share the screen of the mobile phone to the car display, fully activate the mirroring function the fastest.   The sophisticated and compact look fits almost anywhere   Easy To Use: Plug and play design, suitable for all drivers   Plug and play without any additional drivers, apps or hassle-inducing system upgrades. You just need to connect the line to your phone and it's ready to use   Mobile system: compatible for iOS 6.0+   </LONGDESC>
+    <WEIGHT>0.2</WEIGHT>
+    <WIDTH>10</WIDTH>
+    <HEIGHT>5</HEIGHT>
+    <LENGTH>15</LENGTH>
+    <IMAGES>
+      <image>https://cdn.chv.me/images/70jACpnf.jpeg</image>
+      <image>https://cdn.chv.me/images/70jAZeag.jpeg</image>
+      <image>https://cdn.chv.me/images/70jAJp5g.jpeg</image>
+    </IMAGES>
+  </item>
+  <item>
+    <ID>211627INVASION</ID>
+    <category_id>ND401</category_id>
+    <BRAND_ID>FREAKINGOOD</BRAND_ID>
+    <TITLE>Imetnik avtomobila Brezžični polnilec 15w Hitro polnjenje 360-Degree rotacija Samodejno infrardeči senzor Bracket modra</TITLE>
+    <SHORTDESC>Imetnik avtomobila Brezžični polnilec 15w Hitro polnjenje 360-Degree rotacija Samodejno infrardeči s</SHORTDESC>
+    <BARCODE>6941379055335</BARCODE>
+    <PRICE>80.88</PRICE>
+    <DELIVERY_DELAY>2</DELIVERY_DELAY>
+    <LONGDESC>   15W output, supports fast charging, car mount and wireless charging 2 in 1.   360° rotation at will, without blocking the front view.   Infrared sensor, one-hand pick and place, automatic opening and closing, automatic locking.   Adjustable base, suitable for a variety of mobile phone models.   Base adaptation: air outlet clip/special vehicle base.   </LONGDESC>
+    <WEIGHT>0.2</WEIGHT>
+    <WIDTH>10</WIDTH>
+    <HEIGHT>5</HEIGHT>
+    <LENGTH>15</LENGTH>
+    <IMAGES>
+      <image>https://cdn.chv.me/images/50jAVaay.jpeg</image>
+      <image>https://cdn.chv.me/images/50jA4e-y.jpeg</image>
+      <image>https://cdn.chv.me/images/50jAAb6z.jpeg</image>
+    </IMAGES>
+  </item>
+  <item>
+    <ID>211626INVASION</ID>
+    <category_id>ND401</category_id>
+    <BRAND_ID>FREAKINGOOD</BRAND_ID>
+    <TITLE>Imetnik avtomobila Brezžični polnilec 15w Hitro polnjenje 360-Degree rotacija Samodejno infrardeči senzor Bracket Gold</TITLE>
+    <SHORTDESC>Imetnik avtomobila Brezžični polnilec 15w Hitro polnjenje 360-Degree rotacija Samodejno infrardeči s</SHORTDESC>
+    <BARCODE>6941379055328</BARCODE>
+    <PRICE>80.88</PRICE>
+    <DELIVERY_DELAY>2</DELIVERY_DELAY>
+    <LONGDESC>   15W output, supports fast charging, car mount and wireless charging 2 in 1.   360° rotation at will, without blocking the front view.   Infrared sensor, one-hand pick and place, automatic opening and closing, automatic locking.   Adjustable base, suitable for a variety of mobile phone models.   Base adaptation: air outlet clip/special vehicle base.   </LONGDESC>
+    <WEIGHT>0.2</WEIGHT>
+    <WIDTH>10</WIDTH>
+    <HEIGHT>5</HEIGHT>
+    <LENGTH>15</LENGTH>
+    <IMAGES>
+      <image>https://cdn.chv.me/images/40jAefof.jpeg</image>
+      <image>https://cdn.chv.me/images/40jAOLig.jpeg</image>
+      <image>https://cdn.chv.me/images/40jAwOch.jpeg</image>
+    </IMAGES>
+  </item>
+  <item>
+    <ID>211566INVASION</ID>
+    <category_id>ND401</category_id>
+    <BRAND_ID>FREAKINGOOD</BRAND_ID>
+    <TITLE>Brezbarvno zobozdravstveno odstranjevalno orodje Popravila avtomobilskih karoserij Kompleti za izenačevanje kladiva Knock down glave Tap srebrno črna</TITLE>
+    <SHORTDESC>Brezbarvno zobozdravstveno odstranjevalno orodje Popravila avtomobilskih karoserij Kompleti za izena</SHORTDESC>
+    <BARCODE>6941379054727</BARCODE>
+    <PRICE>98.88</PRICE>
+    <DELIVERY_DELAY>2</DELIVERY_DELAY>
+    <LONGDESC>   The leveling hammer is a kind of dent hammer, for some irregular dents, it has an interchangeable tip.   The car body dents can be quickly repaired by the leveling hammer.   The leveling hammer will not damage the original paint.   The leveling hammer has the advantage of simple operation.   Can be widely used - Our paintless dent repair tool is suitable for sheet metal processing of cars, refrigerators, motorcycle bodies and washing machines.   </LONGDESC>
+    <WEIGHT>0.2</WEIGHT>
+    <WIDTH>10</WIDTH>
+    <HEIGHT>5</HEIGHT>
+    <LENGTH>15</LENGTH>
+    <IMAGES>
+      <image>https://cdn.chv.me/images/c0jAUHEa.jpeg</image>
+      <image>https://cdn.chv.me/images/c0jAK0lb.jpeg</image>
+      <image>https://cdn.chv.me/images/c0jAVH5b.jpeg</image>
+    </IMAGES>
+  </item>
+  <item>
+    <ID>211313INVASION</ID>
+    <category_id>ND401</category_id>
+    <BRAND_ID>FREAKINGOOD</BRAND_ID>
+    <TITLE>Brezbarvno orodje za odstranjevanje zobnikov Puller Popravilo karoserije Sesalni pokal Prosti list Metal Bump Orodje srebrno modro</TITLE>
+    <SHORTDESC>Brezbarvno orodje za odstranjevanje zobnikov Puller Popravilo karoserije Sesalni pokal Prosti list M</SHORTDESC>
+    <BARCODE>6941379052204</BARCODE>
+    <PRICE>149.88</PRICE>
+    <DELIVERY_DELAY>2</DELIVERY_DELAY>
+    <LONGDESC>   Suitable for different sizes: the maximum pulling force of the sliding puller is suitable for small dents.   Different sizes of glue sticks and pull tabs are all very suitable for removing dents.   Save time, the repair kit can save you a lot of money. Our kits can help you fix your car yourself.   Type design to prevent scratching the painted surface. Will not damage paint.   Scope of application: auto dent repair tool.   </LONGDESC>
+    <WEIGHT>0.2</WEIGHT>
+    <WIDTH>10</WIDTH>
+    <HEIGHT>5</HEIGHT>
+    <LENGTH>15</LENGTH>
+    <IMAGES>
+      <image>https://cdn.chv.me/images/eyiAiP1j.jpeg</image>
+      <image>https://cdn.chv.me/images/eyiAv5Mk.jpeg</image>
+      <image>https://cdn.chv.me/images/eyiALrDm.jpeg</image>
+    </IMAGES>
+  </item>
+  <item>
+    <ID>211311INVASION</ID>
+    <category_id>ND401</category_id>
+    <BRAND_ID>FREAKINGOOD</BRAND_ID>
+    <TITLE>Orodja za popravilo avtomobilske jame 1pc Mini gumijasto kladivo 5pcs Konkavna plošča za izenačevanje pločevine Kovinska gospodinjska storitev Orodje črno rdeče</TITLE>
+    <SHORTDESC>Orodja za popravilo avtomobilske jame 1pc Mini gumijasto kladivo 5pcs Konkavna plošča za izenačevanj</SHORTDESC>
+    <BARCODE>6941379052181</BARCODE>
+    <PRICE>54.88</PRICE>
+    <DELIVERY_DELAY>2</DELIVERY_DELAY>
+    <LONGDESC>   The handle is made of high-quality materials, ergonomically designed, comfortable to hold, and suitable for long-term use.   The yellow hammer part is made of rubber material, which is soft and translucent. Anti-knock, anti-slip, anti-oil, replaceable hammers to meet your different needs.   Easy to use and convenient to use in a wide range of places.   Durable and long service life.   Applicable: Suitable for most models, dual-use for car and home.   </LONGDESC>
+    <WEIGHT>0.2</WEIGHT>
+    <WIDTH>10</WIDTH>
+    <HEIGHT>5</HEIGHT>
+    <LENGTH>15</LENGTH>
+    <IMAGES>
+      <image>https://cdn.chv.me/images/cyiAAx1C.jpeg</image>
+      <image>https://cdn.chv.me/images/cyiA-M0D.jpeg</image>
+      <image>https://cdn.chv.me/images/cyiAdaTE.jpeg</image>
+    </IMAGES>
+  </item>
+  <item>
+    <ID>211310INVASION</ID>
+    <category_id>ND401</category_id>
+    <BRAND_ID>FREAKINGOOD</BRAND_ID>
+    <TITLE>Obd2 Skener Profesionalni motor vozila Diagnostično orodje Bluetooth prelom V316 Oznaka Črni bralec</TITLE>
+    <SHORTDESC>Obd2 Skener Profesionalni motor vozila Diagnostično orodje Bluetooth prelom V316 Oznaka Črni bralec</SHORTDESC>
+    <BARCODE>6941379052174</BARCODE>
+    <PRICE>149.88</PRICE>
+    <DELIVERY_DELAY>2</DELIVERY_DELAY>
+    <LONGDESC>   Handheld fault diagnosis + Bluetooth-compatible APP dual operation experience, handheld and Bluetooth-compatible 2 in 1   Function: Automobile fault diagnosis; Engine trouble light clear; Data flow; Real-time curve; Print function   Color screen 320 x 426 display.   Support 6 languages: English, German, French, Spanish, Italian, Dutch.   Parameter: Working voltage: 12V. Working current: 57mA. Operating environment: -25～70℃. Storage temperature: -25～70℃   </LONGDESC>
+    <WEIGHT>0.2</WEIGHT>
+    <WIDTH>10</WIDTH>
+    <HEIGHT>5</HEIGHT>
+    <LENGTH>15</LENGTH>
+    <IMAGES>
+      <image>https://cdn.chv.me/images/cyiAZnZd.jpeg</image>
+      <image>https://cdn.chv.me/images/cyiAVSGe.jpeg</image>
+      <image>https://cdn.chv.me/images/cyiAFvjf.jpeg</image>
+    </IMAGES>
+  </item>
+  <item>
+    <ID>211309INVASION</ID>
+    <category_id>ND401</category_id>
+    <BRAND_ID>FREAKINGOOD</BRAND_ID>
+    <TITLE>Vc300 Avto Obd2 Diagnostični skener Avtomobilski motor Čitalnik svetlobnih kod Obd Preverjanje Orodje rdeče črno</TITLE>
+    <SHORTDESC>Vc300 Avto Obd2 Diagnostični skener Avtomobilski motor Čitalnik svetlobnih kod Obd Preverjanje Orodj</SHORTDESC>
+    <BARCODE>6941379052167</BARCODE>
+    <PRICE>90.88</PRICE>
+    <DELIVERY_DELAY>2</DELIVERY_DELAY>
+    <LONGDESC>   Working voltage: 12V. Working current: 64mA.   Function: Read car fault codes, clear DTCs. I/M, VIN. Support English.   The main function of this scanner is to detect the engine system, read and clear the error code.   It is very easy to use, even a beginner can use this machine to read the error code and display the code definition on the screen, you can find the problem and solve it by yourself.   Built to strict quality control standards, high strength and long life service.   </LONGDESC>
+    <WEIGHT>0.2</WEIGHT>
+    <WIDTH>10</WIDTH>
+    <HEIGHT>5</HEIGHT>
+    <LENGTH>15</LENGTH>
+    <IMAGES>
+      <image>https://cdn.chv.me/images/byiAIk5n.jpeg</image>
+      <image>https://cdn.chv.me/images/byiAeHYo.jpeg</image>
+      <image>https://cdn.chv.me/images/byiADZPp.jpeg</image>
+    </IMAGES>
+  </item>
+  <item>
+    <ID>211302INVASION</ID>
+    <category_id>ND401</category_id>
+    <BRAND_ID>FREAKINGOOD</BRAND_ID>
+    <TITLE>Bluetooth MP3 predvajalnik brez roke komplet avtomobila Fm prenosnik Dual Usb hitro polnjenje polnilnik napajalnik nevtralen angleški BT36</TITLE>
+    <SHORTDESC>Bluetooth MP3 predvajalnik brez roke komplet avtomobila Fm prenosnik Dual Usb hitro polnjenje polnil</SHORTDESC>
+    <BARCODE>6941379052099</BARCODE>
+    <PRICE>54.88</PRICE>
+    <DELIVERY_DELAY>2</DELIVERY_DELAY>
+    <LONGDESC>   Dual USB3.1A fast charging battery voltage detection.   Support Bluetooth-compatible music/TF card/U disk playback, support Bluetooth-compatible hands-free calling.   Orange LED screen can display frequency point, song number and working status information.   Support folder switching playback function, song classification playback, Support power-off memory function.   Charge 2 mobile phones at the same time, support charging while listening to music.   </LONGDESC>
+    <WEIGHT>0.2</WEIGHT>
+    <WIDTH>10</WIDTH>
+    <HEIGHT>5</HEIGHT>
+    <LENGTH>15</LENGTH>
+    <IMAGES>
+      <image>https://cdn.chv.me/images/7xiAngkK.jpeg</image>
+      <image>https://cdn.chv.me/images/7xiAhgfL.jpeg</image>
+      <image>https://cdn.chv.me/images/7xiAfb9L.jpeg</image>
+    </IMAGES>
+  </item>
+  <item>
+    <ID>211289INVASION</ID>
+    <category_id>ND401</category_id>
+    <BRAND_ID>FREAKINGOOD</BRAND_ID>
+    <TITLE>Avto Obd Hud Head-up Display Multi-funkcionalni merilnik hitrosti Digitalni diagnostični sistem opozarjanja Instrument črna</TITLE>
+    <SHORTDESC>Avto Obd Hud Head-up Display Multi-funkcionalni merilnik hitrosti Digitalni diagnostični sistem opoz</SHORTDESC>
+    <BARCODE>6941379051962</BARCODE>
+    <PRICE>130.88</PRICE>
+    <DELIVERY_DELAY>2</DELIVERY_DELAY>
+    <LONGDESC>   Exquisite and compact appearance of the refitted stopwatch, 2.2-inch LCD color screen display, 9 display interfaces, font display color can be adjusted arbitrarily   Rich display: time, speed, speed, water temperature, voltage, fuel consumption, cumulative mileage, turbopressure, air-fuel ratio, engine oil temperature and other detailed engine data   Automatic switch on and off, alarm functions such as overspeed, high water temperature, and low voltage, etc.,early warning and pre-car breakdown   </LONGDESC>
+    <WEIGHT>0.2</WEIGHT>
+    <WIDTH>10</WIDTH>
+    <HEIGHT>5</HEIGHT>
+    <LENGTH>15</LENGTH>
+    <IMAGES>
+      <image>https://cdn.chv.me/images/09hAIY0p.jpeg</image>
+      <image>https://cdn.chv.me/images/09hAUASq.jpeg</image>
+      <image>https://cdn.chv.me/images/09hAUkSr.jpeg</image>
+    </IMAGES>
+  </item>
+  <item>
+    <ID>211286INVASION</ID>
+    <category_id>ND401</category_id>
+    <BRAND_ID>FREAKINGOOD</BRAND_ID>
+    <TITLE>Skener Obd2 Bralnik kode okvare avtomobilskega motorja Obd Ii Tester Auto Diagnostic Scan orodje zaslon Dekoder Detektor rumene</TITLE>
+    <SHORTDESC>Skener Obd2 Bralnik kode okvare avtomobilskega motorja Obd Ii Tester Auto Diagnostic Scan orodje zas</SHORTDESC>
+    <BARCODE>6941379051931</BARCODE>
+    <PRICE>97.88</PRICE>
+    <DELIVERY_DELAY>2</DELIVERY_DELAY>
+    <LONGDESC>   Working voltage: 9-16V. Working current: 80mA.   Read errors and clear diagnostic codes, easily determine the cause of the check engine light.   Function: View freeze frame information. Show I/M readiness status. Retrieve vehicle information. Data flow. Real-time curve.   Support 6 languages: German, English, Dutch, Italian, Spanish, French   Screen Size: 2.8 inch display screen.   </LONGDESC>
+    <WEIGHT>0.2</WEIGHT>
+    <WIDTH>10</WIDTH>
+    <HEIGHT>5</HEIGHT>
+    <LENGTH>15</LENGTH>
+    <IMAGES>
+      <image>https://cdn.chv.me/images/X9hAS1rp.jpeg</image>
+      <image>https://cdn.chv.me/images/X9hAKV_p.jpeg</image>
+      <image>https://cdn.chv.me/images/X9hAvY_q.jpeg</image>
+    </IMAGES>
+  </item>
+  <item>
+    <ID>211271INVASION</ID>
+    <category_id>ND401</category_id>
+    <BRAND_ID>FREAKINGOOD</BRAND_ID>
+    <TITLE>Prikaži Universal Bluetooth Speedometer Varnostni pribor za instrumente črna</TITLE>
+    <SHORTDESC>Prikaži Universal Bluetooth Speedometer Varnostni pribor za instrumente črna</SHORTDESC>
+    <BARCODE>6941379051788</BARCODE>
+    <PRICE>67.88</PRICE>
+    <DELIVERY_DELAY>2</DELIVERY_DELAY>
+    <LONGDESC>   It can work on all cars/trucks/buses/electric motorcycles/electric bicycles....   After connecting the power supply, it will work directly without any other operation;   Without jumping speed, the display is more coherent and smooth;   The speed is very accurate, the speed is refreshed quickly, without any delay;    It has a sunshade itself, which can be viewed well even in the sun;. Clearly visible both during the day and at night;   Speed unit MPH   </LONGDESC>
+    <WEIGHT>0.2</WEIGHT>
+    <WIDTH>10</WIDTH>
+    <HEIGHT>5</HEIGHT>
+    <LENGTH>15</LENGTH>
+    <IMAGES>
+      <image>https://cdn.chv.me/images/K9hAi4vx.jpeg</image>
+      <image>https://cdn.chv.me/images/K9hAkEuy.jpeg</image>
+      <image>https://cdn.chv.me/images/K9hALbtz.jpeg</image>
+    </IMAGES>
+  </item>
+  <item>
+    <ID>211270INVASION</ID>
+    <category_id>ND401</category_id>
+    <BRAND_ID>FREAKINGOOD</BRAND_ID>
+    <TITLE>200kos Heksagonska vtičnica s pokrovom Bolt Kit 9 Specifikacije Cilindrični vijaki / črni vijaki</TITLE>
+    <SHORTDESC>200kos Heksagonska vtičnica s pokrovom Bolt Kit 9 Specifikacije Cilindrični vijaki / črni vijaki</SHORTDESC>
+    <BARCODE>6941379051771</BARCODE>
+    <PRICE>95.88</PRICE>
+    <DELIVERY_DELAY>2</DELIVERY_DELAY>
+    <LONGDESC>   Has good corrosion resistance and rust resistance, fine workmanship and durability.   The details are made of high-quality 12.9-grade alloy steel, it is characterized by high strength and good corrosion resistance in harsh environments such as high temperature, cold weather and high humidity areas   They have excellent anti-rust and anti-oxidation properties, can guarantee long-term use.   All screws and nuts are packed in a durable and strong case to storage.   Includes: 200 x Allen screws   </LONGDESC>
+    <WEIGHT>0.2</WEIGHT>
+    <WIDTH>10</WIDTH>
+    <HEIGHT>5</HEIGHT>
+    <LENGTH>15</LENGTH>
+    <IMAGES>
+      <image>https://cdn.chv.me/images/J9hAQPsI.jpeg</image>
+      <image>https://cdn.chv.me/images/J9hA58-I.jpeg</image>
+      <image>https://cdn.chv.me/images/J9hAhd-J.jpeg</image>
+    </IMAGES>
+  </item>
+  <item>
+    <ID>211235INVASION</ID>
+    <category_id>ND401</category_id>
+    <BRAND_ID>FREAKINGOOD</BRAND_ID>
+    <TITLE>Bt06 Fm Radio MP3 Player Bluetooth brez rok Komplet 2.1a Usb polnilnik avtomobilov hitro Stroški za mobilni telefon Črni telefon</TITLE>
+    <SHORTDESC>Bt06 Fm Radio MP3 Player Bluetooth brez rok Komplet 2.1a Usb polnilnik avtomobilov hitro Stroški za </SHORTDESC>
+    <BARCODE>6941379051429</BARCODE>
+    <PRICE>54.88</PRICE>
+    <DELIVERY_DELAY>2</DELIVERY_DELAY>
+    <LONGDESC>   Bluetooth-compatible V5.0, support ambient light, with automatic power off memory function.   Support FM stereo transmission technology; Support U disk playback; Support MP3 and other     format files.   Wireless support A2DP, Wireless support for hands-free calls.   Support wireless compatible stereo     DSP technology.   Type C dual USB QC3.0+1A fast charging.   </LONGDESC>
+    <WEIGHT>0.2</WEIGHT>
+    <WIDTH>10</WIDTH>
+    <HEIGHT>5</HEIGHT>
+    <LENGTH>15</LENGTH>
+    <IMAGES>
+      <image>https://cdn.chv.me/images/Z8hAJ0Wa.jpeg</image>
+      <image>https://cdn.chv.me/images/Z8hAIpPb.jpeg</image>
+      <image>https://cdn.chv.me/images/Z8hAxCCc.jpeg</image>
+    </IMAGES>
+  </item>
+  <item>
+    <ID>211146INVASION</ID>
+    <category_id>ND401</category_id>
+    <BRAND_ID>FREAKINGOOD</BRAND_ID>
+    <TITLE>Avto adapter Dongle za Carplay Wire Controlled to Wireless Inteligentni Ai Box Navigation Media Player Okrogla bela</TITLE>
+    <SHORTDESC>Avto adapter Dongle za Carplay Wire Controlled to Wireless Inteligentni Ai Box Navigation Media Play</SHORTDESC>
+    <BARCODE>6941379050538</BARCODE>
+    <PRICE>149.88</PRICE>
+    <DELIVERY_DELAY>2</DELIVERY_DELAY>
+    <LONGDESC>   Stable and uninterrupted: Uses Bluetooth-compatible and Dual WiFi 2.4GHz+5GHz module transmission to ensure a stable connection and a responsive response   Make it easy to play music, navigate or use compatible for Siri wirelessly   Support voice control, compatible for Siri, GPS navigation apps (real-time navigation), online     app, phone call,     app, messages   Plug and Play: Just plug compatible for CarPlay wireless adapter into your car's USB data port   Size: 5.31 x 1.96 x 0.47inch   </LONGDESC>
+    <WEIGHT>0.2</WEIGHT>
+    <WIDTH>10</WIDTH>
+    <HEIGHT>5</HEIGHT>
+    <LENGTH>15</LENGTH>
+    <IMAGES>
+      <image>https://cdn.chv.me/images/7KfAFpPB.jpeg</image>
+      <image>https://cdn.chv.me/images/7KfAu8PC.jpeg</image>
+      <image>https://cdn.chv.me/images/7KfAFYID.jpeg</image>
+    </IMAGES>
+  </item>
+  <item>
+    <ID>211145INVASION</ID>
+    <category_id>ND401</category_id>
+    <BRAND_ID>FREAKINGOOD</BRAND_ID>
+    <TITLE>USB Adapter Združljiv za karlarski modul Bluetooth Wifi Dongle Wireless Android Square White</TITLE>
+    <SHORTDESC>USB Adapter Združljiv za karlarski modul Bluetooth Wifi Dongle Wireless Android Square White</SHORTDESC>
+    <BARCODE>6941379050521</BARCODE>
+    <PRICE>149.88</PRICE>
+    <DELIVERY_DELAY>2</DELIVERY_DELAY>
+    <LONGDESC>   Use Features: This product makes compatible for Android Auto wireless easy.   Converting wire-controlled to wireless compatible for Android Auto is super easy.   Seamlessly connect to your phone every time you get in the car, much easier than plugging it in.   Easy setup: Plug and play, no sense of connection, farewell to constraints.   Fast data transmission speed, low delay, continue button, knob, etc. original car operation.   </LONGDESC>
+    <WEIGHT>0.2</WEIGHT>
+    <WIDTH>10</WIDTH>
+    <HEIGHT>5</HEIGHT>
+    <LENGTH>15</LENGTH>
+    <IMAGES>
+      <image>https://cdn.chv.me/images/7KfA3p3n.jpeg</image>
+      <image>https://cdn.chv.me/images/7KfAegWo.jpeg</image>
+      <image>https://cdn.chv.me/images/7KfANYKp.jpeg</image>
+    </IMAGES>
+  </item>
+  <item>
