@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ITEMS>
-  <!-- Product 1: Steering Wheel Lock -->
   <ITEM>
     <ID>211737INVASION</ID>
     <STAGE>draft</STAGE>
@@ -23,11 +22,9 @@
       <HEIGHT>5</HEIGHT>
       <LENGTH>15</LENGTH>
     </DIMENSIONS>
-    <!-- Mandatory PARAMs for ND401 (example – adjust per real MALL list) -->
     <PARAM><NAME>COLOR</NAME><VALUE>zlato-črna</VALUE></PARAM>
     <PARAM><NAME>MATERIAL</NAME><VALUE>PU usnje, jeklo</VALUE></PARAM>
     <PARAM><NAME>COMPATIBILITY</NAME><VALUE>univerzalno</VALUE></PARAM>
-    <!-- Images -->
     <MEDIA>
       <URL>https://cdn.chv.me/images/dckAqs-G.jpeg</URL>
       <MAIN>true</MAIN>
@@ -42,7 +39,6 @@
     </MEDIA>
   </ITEM>
 
-  <!-- Product 2: Wireless Car Phone Holder 15W -->
   <ITEM>
     <ID>211731INVASION</ID>
     <STAGE>draft</STAGE>
@@ -82,7 +78,6 @@
     </MEDIA>
   </ITEM>
 
-  <!-- Product 3: CarPlay USB-C Dongle -->
   <ITEM>
     <ID>211628INVASION</ID>
     <STAGE>draft</STAGE>
@@ -122,7 +117,6 @@
     </MEDIA>
   </ITEM>
 
-  <!-- Product 4: Wireless Charger Holder Blue -->
   <ITEM>
     <ID>211627INVASION</ID>
     <STAGE>draft</STAGE>
@@ -162,7 +156,6 @@
     </MEDIA>
   </ITEM>
 
-  <!-- Product 5: Wireless Charger Holder Gold -->
   <ITEM>
     <ID>211626INVASION</ID>
     <STAGE>draft</STAGE>
@@ -202,7 +195,6 @@
     </MEDIA>
   </ITEM>
 
-  <!-- Product 6: Paintless Dent Repair Kit -->
   <ITEM>
     <ID>211566INVASION</ID>
     <STAGE>draft</STAGE>
@@ -241,7 +233,6 @@
     </MEDIA>
   </ITEM>
 
-  <!-- Product 7: Dent Puller Tool -->
   <ITEM>
     <ID>211313INVASION</ID>
     <STAGE>draft</STAGE>
@@ -280,7 +271,6 @@
     </MEDIA>
   </ITEM>
 
-  <!-- Product 8: Mini Rubber Hammer Set -->
   <ITEM>
     <ID>211311INVASION</ID>
     <STAGE>draft</STAGE>
@@ -319,7 +309,6 @@
     </MEDIA>
   </ITEM>
 
-  <!-- Product 9: OBD2 Bluetooth Scanner V316 -->
   <ITEM>
     <ID>211310INVASION</ID>
     <STAGE>draft</STAGE>
@@ -358,7 +347,6 @@
     </MEDIA>
   </ITEM>
 
-  <!-- Product 10: VC300 OBD2 Scanner -->
   <ITEM>
     <ID>211309INVASION</ID>
     <STAGE>draft</STAGE>
@@ -396,34 +384,20 @@
     </MEDIA>
   </ITEM>
 
-<?xml version="1.0" encoding="UTF-8"?>
-<ITEMS>
-
   <ITEM>
     <ID>211663INVASION</ID>
     <STAGE>draft</STAGE>
     <CATEGORY_ID>EF016</CATEGORY_ID>
     <BRAND_ID>FREAKINGOOD</BRAND_ID>
-
     <TITLE>Q6 Mobilni telefon Gimbal Inteligentni sledilni selfie palica 360-stopinjski vrtljivi nosilec stojalo za kamero</TITLE>
-
-    <SHORTDESC>
-Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sledenje obraza, nosilec za mobilni telefon in kamera za sledenje objektov, ki vam pomaga rešiti težave. Naj vas mobilni telefon sledi in ne prosite več za pomoč pri snemanju selfijev. Sledenje objektom, pametno sledenje: pali
-    </SHORTDESC>
-
-    <LONGDESC><![CDATA[
-Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sledenje obraza, nosilec za mobilni telefon in kamera za sledenje objektov, ki vam pomaga rešiti težave. Naj vas mobilni telefon sledi in ne prosite več za pomoč pri snemanju selfijev. Sledenje objektom, pametno sledenje: palica za selfije za mobilni telefon lahko sledi objektom v realnem času in sledi gibanju objektov. Podpora velikosti mobilnega telefona: 56–100 mm. Za najboljši učinek spremljanja priporočamo uporabo le ene scene.
-    ]]></LONGDESC>
-
+    <SHORTDESC>Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sledenje obraza, nosilec za mobilni telefon in kamera za sledenje objektov, ki vam pomaga rešiti težave. Naj vas mobilni telefon sledi in ne prosite več za pomoč pri snemanju selfijev. Sledenje objektom, pametno sledenje: pali</SHORTDESC>
+    <LONGDESC><![CDATA[Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sledenje obraza, nosilec za mobilni telefon in kamera za sledenje objektov, ki vam pomaga rešiti težave. Naj vas mobilni telefon sledi in ne prosite več za pomoč pri snemanju selfijev. Sledenje objektom, pametno sledenje: palica za selfije za mobilni telefon lahko sledi objektom v realnem času in sledi gibanju objektov. Podpora velikosti mobilnega telefona: 56–100 mm. Za najboljši učinek spremljanja priporočamo uporabo le ene scene.]]></LONGDESC>
     <PRIORITY>1</PRIORITY>
     <PACKAGE_SIZE>smallbox</PACKAGE_SIZE>
     <BARCODE>6941379055694</BARCODE>
     <PRICE>60.88</PRICE>
     <VAT>22</VAT>
     <RRP>60.88</RRP>
-
-    
-
     <PARAM>
       <NAME>LISTING_DESCRIPTION</NAME>
       <VALUE>osnovno</VALUE>
@@ -432,17 +406,14 @@ Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sleden
       <NAME>TYPE_OF_MOBILE_PHONE_AND</NAME>
       <VALUE>univerzalno</VALUE>
     </PARAM>
-
     <DIMENSIONS>
       <WEIGHT>0.2</WEIGHT>
       <WIDTH>10</WIDTH>
       <HEIGHT>5</HEIGHT>
       <LENGTH>15</LENGTH>
     </DIMENSIONS>
-
     <TARIC_CODE>85177900</TARIC_CODE>
     <DELIVERY_DELAY>2</DELIVERY_DELAY>
-
     <MEDIA>
       <URL>https://cdn.chv.me/images/YakAwEbd.jpeg</URL>
       <MAIN>true</MAIN>
@@ -462,26 +433,15 @@ Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sleden
     <STAGE>draft</STAGE>
     <CATEGORY_ID>EF016</CATEGORY_ID>
     <BRAND_ID>FREAKINGOOD</BRAND_ID>
-
     <TITLE>Q6 Mobilni telefon Gimbal Inteligentni sledilni selfie palica 360-stopinjski vrtljivi nosilec stojalo za kamero črna</TITLE>
-
-    <SHORTDESC>
-Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sledenje obraza, nosilec za mobilni telefon in kamera za sledenje objektov, ki vam pomaga rešiti težave. Naj vas mobilni telefon sledi in ne prosite več za pomoč pri snemanju selfijev. Sledenje objektom, pametno sledenje: pali
-    </SHORTDESC>
-
-    <LONGDESC><![CDATA[
-Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sledenje obraza, nosilec za mobilni telefon in kamera za sledenje objektov, ki vam pomaga rešiti težave. Naj vas mobilni telefon sledi in ne prosite več za pomoč pri snemanju selfijev. Sledenje objektom, pametno sledenje: palica za selfije za mobilni telefon lahko sledi objektom v realnem času in sledi gibanju objektov. Podpora velikosti mobilnega telefona: 56–100 mm. Za najboljši učinek spremljanja priporočamo uporabo le ene scene.
-    ]]></LONGDESC>
-
+    <SHORTDESC>Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sledenje obraza, nosilec za mobilni telefon in kamera za sledenje objektov, ki vam pomaga rešiti težave. Naj vas mobilni telefon sledi in ne prosite več za pomoč pri snemanju selfijev. Sledenje objektom, pametno sledenje: pali</SHORTDESC>
+    <LONGDESC><![CDATA[Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sledenje obraza, nosilec za mobilni telefon in kamera za sledenje objektov, ki vam pomaga rešiti težave. Naj vas mobilni telefon sledi in ne prosite več za pomoč pri snemanju selfijev. Sledenje objektom, pametno sledenje: palica za selfije za mobilni telefon lahko sledi objektom v realnem času in sledi gibanju objektov. Podpora velikosti mobilnega telefona: 56–100 mm. Za najboljši učinek spremljanja priporočamo uporabo le ene scene.]]></LONGDESC>
     <PRIORITY>1</PRIORITY>
     <PACKAGE_SIZE>smallbox</PACKAGE_SIZE>
     <BARCODE>6941379055687</BARCODE>
     <PRICE>60.88</PRICE>
     <VAT>22</VAT>
     <RRP>60.88</RRP>
-
-    
-
     <PARAM>
       <NAME>LISTING_DESCRIPTION</NAME>
       <VALUE>osnovno</VALUE>
@@ -490,17 +450,14 @@ Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sleden
       <NAME>TYPE_OF_MOBILE_PHONE_AND</NAME>
       <VALUE>univerzalno</VALUE>
     </PARAM>
-
     <DIMENSIONS>
       <WEIGHT>0.2</WEIGHT>
       <WIDTH>10</WIDTH>
       <HEIGHT>5</HEIGHT>
       <LENGTH>15</LENGTH>
     </DIMENSIONS>
-
     <TARIC_CODE>85177900</TARIC_CODE>
     <DELIVERY_DELAY>2</DELIVERY_DELAY>
-
     <MEDIA>
       <URL>https://cdn.chv.me/images/XakA9Y4h.jpeg</URL>
       <MAIN>true</MAIN>
@@ -520,25 +477,15 @@ Podpora sledenja mobilnega telefona: 360-stopinjski avtomatski nosilec za sleden
     <STAGE>draft</STAGE>
     <CATEGORY_ID>EF016</CATEGORY_ID>
     <BRAND_ID>FREAKINGOOD</BRAND_ID>
-
     <TITLE>Q1 Avtomatski pametni selfie palica 360 stopinj vrtenja Nosilec za mobilni telefon Sledenje obrazu Kamera Gimbal</TITLE>
-
-    <SHORTDESC>
-Sledenje obrazu podpira uvedbo tehnologije sinteze slik AI in oceno velikosti človeškega telesa pri pametnem fotografiranju, 360-stopinjskem vrtenju. Enostavno upravljanje: najprej prenesite programsko opremo na mobilni telefon, ni potrebna registracija in prijava. Nato vklopite gumb za vklop, priti
-    </SHORTDESC>
-
-    <LONGDESC><![CDATA[
-Sledenje obrazu podpira uvedbo tehnologije sinteze slik AI in oceno velikosti človeškega telesa pri pametnem fotografiranju, 360-stopinjskem vrtenju. Enostavno upravljanje: najprej prenesite programsko opremo na mobilni telefon, ni potrebna registracija in prijava. Nato vklopite gumb za vklop, pritisnite in držite gumb za vklop 5 sekund, rdeča lučka se prižge, vklopite brezžični mobilni telefon in se samodejno povežite. Podprta velikost mobilnega telefona: 56–100 mm. Velikost: premer 92 x višina 180 mm
-    ]]></LONGDESC>
-
+    <SHORTDESC>Sledenje obrazu podpira uvedbo tehnologije sinteze slik AI in oceno velikosti človeškega telesa pri pametnem fotografiranju, 360-stopinjskem vrtenju. Enostavno upravljanje: najprej prenesite programsko opremo na mobilni telefon, ni potrebna registracija in prijava. Nato vklopite gumb za vklop, priti</SHORTDESC>
+    <LONGDESC><![CDATA[Sledenje obrazu podpira uvedbo tehnologije sinteze slik AI in oceno velikosti človeškega telesa pri pametnem fotografiranju, 360-stopinjskem vrtenju. Enostavno upravljanje: najprej prenesite programsko opremo na mobilni telefon, ni potrebna registracija in prijava. Nato vklopite gumb za vklop, pritisnite in držite gumb za vklop 5 sekund, rdeča lučka se prižge, vklopite brezžični mobilni telefon in se samodejno povežite. Podprta velikost mobilnega telefona: 56–100 mm. Velikost: premer 92 x višina 180 mm]]></LONGDESC>
     <PRIORITY>1</PRIORITY>
     <PACKAGE_SIZE>smallbox</PACKAGE_SIZE>
     <BARCODE>6941379055670</BARCODE>
     <PRICE>78.88</PRICE>
     <VAT>22</VAT>
     <RRP>78.88</RRP>
-    
-
     <PARAM>
       <NAME>LISTING_DESCRIPTION</NAME>
       <VALUE>osnovno</VALUE>
@@ -547,17 +494,14 @@ Sledenje obrazu podpira uvedbo tehnologije sinteze slik AI in oceno velikosti č
       <NAME>TYPE_OF_MOBILE_PHONE_AND</NAME>
       <VALUE>univerzalno</VALUE>
     </PARAM>
-
     <DIMENSIONS>
       <WEIGHT>0.2</WEIGHT>
       <WIDTH>10</WIDTH>
       <HEIGHT>5</HEIGHT>
       <LENGTH>15</LENGTH>
     </DIMENSIONS>
-
     <TARIC_CODE>85177900</TARIC_CODE>
     <DELIVERY_DELAY>2</DELIVERY_DELAY>
-
     <MEDIA>
       <URL>https://cdn.chv.me/images/WakAenfs.jpeg</URL>
       <MAIN>true</MAIN>
@@ -571,6 +515,4 @@ Sledenje obrazu podpira uvedbo tehnologije sinteze slik AI in oceno velikosti č
       <MAIN>false</MAIN>
     </MEDIA>
   </ITEM>
-
-
-
+</ITEMS>
