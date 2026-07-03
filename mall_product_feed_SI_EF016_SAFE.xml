@@ -23,8 +23,6 @@
       <LENGTH>15</LENGTH>
     </DIMENSIONS>
     <PARAM><NAME>COLOR</NAME><VALUE>zlato-črna</VALUE></PARAM>
-    <PARAM><NAME>MATERIAL</NAME><VALUE>PU usnje, jeklo</VALUE></PARAM>
-    <PARAM><NAME>COMPATIBILITY</NAME><VALUE>univerzalno</VALUE></PARAM>
     <MEDIA>
       <URL>https://cdn.chv.me/images/dckAqs-G.jpeg</URL>
       <MAIN>true</MAIN>
@@ -62,8 +60,6 @@
       <LENGTH>15</LENGTH>
     </DIMENSIONS>
     <PARAM><NAME>COLOR</NAME><VALUE>zlato-črna</VALUE></PARAM>
-    <PARAM><NAME>POWER</NAME><VALUE>15W</VALUE></PARAM>
-    <PARAM><NAME>MOUNT_TYPE</NAME><VALUE>zračnik</VALUE></PARAM>
     <MEDIA>
       <URL>https://cdn.chv.me/images/8bkAC3Lv.jpeg</URL>
       <MAIN>true</MAIN>
@@ -102,7 +98,6 @@
     </DIMENSIONS>
     <PARAM><NAME>COLOR</NAME><VALUE>bela</VALUE></PARAM>
     <PARAM><NAME>CONNECTOR</NAME><VALUE>USB-C</VALUE></PARAM>
-    <PARAM><NAME>COMPATIBILITY</NAME><VALUE>iPhone</VALUE></PARAM>
     <MEDIA>
       <URL>https://cdn.chv.me/images/70jACpnf.jpeg</URL>
       <MAIN>true</MAIN>
@@ -140,7 +135,6 @@
       <LENGTH>15</LENGTH>
     </DIMENSIONS>
     <PARAM><NAME>COLOR</NAME><VALUE>modra</VALUE></PARAM>
-    <PARAM><NAME>POWER</NAME><VALUE>15W</VALUE></PARAM>
     <PARAM><NAME>ROTATION</NAME><VALUE>360°</VALUE></PARAM>
     <MEDIA>
       <URL>https://cdn.chv.me/images/50jAVaay.jpeg</URL>
@@ -179,7 +173,6 @@
       <LENGTH>15</LENGTH>
     </DIMENSIONS>
     <PARAM><NAME>COLOR</NAME><VALUE>zlata</VALUE></PARAM>
-    <PARAM><NAME>POWER</NAME><VALUE>15W</VALUE></PARAM>
     <PARAM><NAME>ROTATION</NAME><VALUE>360°</VALUE></PARAM>
     <MEDIA>
       <URL>https://cdn.chv.me/images/40jAefof.jpeg</URL>
@@ -218,7 +211,6 @@
       <LENGTH>15</LENGTH>
     </DIMENSIONS>
     <PARAM><NAME>COLOR</NAME><VALUE>srebrno-črna</VALUE></PARAM>
-    <PARAM><NAME>MATERIAL</NAME><VALUE>jeklo</VALUE></PARAM>
     <MEDIA>
       <URL>https://cdn.chv.me/images/c0jAUHEa.jpeg</URL>
       <MAIN>true</MAIN>
@@ -256,7 +248,6 @@
       <LENGTH>15</LENGTH>
     </DIMENSIONS>
     <PARAM><NAME>COLOR</NAME><VALUE>srebrno-moder</VALUE></PARAM>
-    <PARAM><NAME>MATERIAL</NAME><VALUE>kovina</VALUE></PARAM>
     <MEDIA>
       <URL>https://cdn.chv.me/images/eyiAiP1j.jpeg</URL>
       <MAIN>true</MAIN>
@@ -294,7 +285,6 @@
       <LENGTH>15</LENGTH>
     </DIMENSIONS>
     <PARAM><NAME>COLOR</NAME><VALUE>črno-rdeče</VALUE></PARAM>
-    <PARAM><NAME>MATERIAL</NAME><VALUE>guma, kovina</VALUE></PARAM>
     <MEDIA>
       <URL>https://cdn.chv.me/images/cyiAAx1C.jpeg</URL>
       <MAIN>true</MAIN>
@@ -332,7 +322,6 @@
       <LENGTH>15</LENGTH>
     </DIMENSIONS>
     <PARAM><NAME>COLOR</NAME><VALUE>črna</VALUE></PARAM>
-    <PARAM><NAME>CONNECTIVITY</NAME><VALUE>Bluetooth</VALUE></PARAM>
     <MEDIA>
       <URL>https://cdn.chv.me/images/cyiAZnZd.jpeg</URL>
       <MAIN>true</MAIN>
@@ -542,10 +531,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 Pro Max Full Coverage Frosted Privacy Ceramic Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006189210.jpg</URL>
       <MAIN>true</MAIN>
@@ -604,10 +589,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Full Coverage Frosted Privacy Ceramic Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006189207.jpg</URL>
@@ -668,10 +649,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17e / 16e / 14 / 13 Pro / 13 Full Coverage Frosted Privacy Ceramic Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006189206.jpg</URL>
       <MAIN>true</MAIN>
@@ -730,10 +707,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Max Full Coverage Frosted Privacy Ceramic Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006189208.jpg</URL>
@@ -794,10 +767,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 / XR Full Coverage Frosted Privacy Ceramic Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006189212.jpg</URL>
       <MAIN>true</MAIN>
@@ -856,10 +825,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 / 12 Pro Full Coverage Frosted Privacy Ceramic Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006189209.jpg</URL>
@@ -920,10 +885,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Max Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668610K.jpg</URL>
       <MAIN>true</MAIN>
@@ -974,10 +935,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668613A.jpg</URL>
@@ -1030,10 +987,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668611B.jpg</URL>
       <MAIN>true</MAIN>
@@ -1084,10 +1037,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009660307A.jpg</URL>
@@ -1148,10 +1097,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Plus Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668612L.jpg</URL>
       <MAIN>true</MAIN>
@@ -1202,10 +1147,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009660308A.jpg</URL>
@@ -1266,10 +1207,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Max</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009660309D.jpg</URL>
       <MAIN>true</MAIN>
@@ -1329,10 +1266,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Plus Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095514K.jpg</URL>
       <MAIN>true</MAIN>
@@ -1383,10 +1316,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095513T.jpg</URL>
@@ -1439,10 +1368,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Max Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095511B.jpg</URL>
       <MAIN>true</MAIN>
@@ -1494,10 +1419,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095512G.jpg</URL>
       <MAIN>true</MAIN>
@@ -1548,10 +1469,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Plus Transparent Gradient Magnetic Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009721113D.jpg</URL>
@@ -1608,10 +1525,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Max Transparent Gradient Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009721115E.jpg</URL>
       <MAIN>true</MAIN>
@@ -1666,10 +1579,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Transparent Gradient Magnetic Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009721112B.jpg</URL>
@@ -1726,10 +1635,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Transparent Gradient Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009721114E.jpg</URL>
       <MAIN>true</MAIN>
@@ -1784,10 +1689,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 XDcase 5pcs / Pack Silk Screen Printed HD Tempered Glass Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008977811.jpg</URL>
@@ -1848,10 +1749,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro XDcase 5pcs / Pack Silk Screen Printed HD Tempered Glass Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008977809.jpg</URL>
       <MAIN>true</MAIN>
@@ -1910,10 +1807,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Plus XDcase 5pcs / Pack Silk Screen Printed HD Tempered Glass Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008977810.jpg</URL>
@@ -1974,10 +1867,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Max XDcase 5pcs / Pack Silk Screen Printed HD Tempered Glass Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008977808.jpg</URL>
       <MAIN>true</MAIN>
@@ -2036,10 +1925,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>For AirPods 4</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008944302D.jpg</URL>
@@ -2100,10 +1985,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17e / 16e XDcase 5pcs / Pack Silk Screen Printed HD Tempered Glass Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008977812.jpg</URL>
       <MAIN>true</MAIN>
@@ -2162,10 +2043,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Air XDcase 5pcs / Pack Silk Screen Printed HD Tempered Glass Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008977813.jpg</URL>
@@ -2226,10 +2103,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max XDcase 5pcs / Pack Silk Screen Printed HD Tempered Glass Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008977801.jpg</URL>
       <MAIN>true</MAIN>
@@ -2288,10 +2161,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Plus XDcase 5pcs / Pack Silk Screen Printed HD Tempered Glass Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008977806.jpg</URL>
@@ -2352,10 +2221,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro XDcase 5pcs / Pack Silk Screen Printed HD Tempered Glass Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008977802.jpg</URL>
       <MAIN>true</MAIN>
@@ -2414,10 +2279,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro XDcase 5pcs / Pack Silk Screen Printed HD Tempered Glass Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008977805.jpg</URL>
@@ -2478,10 +2339,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 XDcase 5pcs / Pack Silk Screen Printed HD Tempered Glass Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008977807.jpg</URL>
       <MAIN>true</MAIN>
@@ -2540,10 +2397,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Max XDcase 5pcs / Pack Silk Screen Printed HD Tempered Glass Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008977804.jpg</URL>
@@ -2604,10 +2457,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>Lanyards &amp; Wrist Straps</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009709201A.jpg</URL>
       <MAIN>true</MAIN>
@@ -2667,10 +2516,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686510C.jpg</URL>
       <MAIN>true</MAIN>
@@ -2721,10 +2566,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Plus Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686511B.jpg</URL>
@@ -2777,10 +2618,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Max Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686509D.jpg</URL>
       <MAIN>true</MAIN>
@@ -2832,10 +2669,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686512D.jpg</URL>
       <MAIN>true</MAIN>
@@ -2886,10 +2719,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Air 9D Full Screen Full Glue Ceramic Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005649711.jpg</URL>
@@ -2946,10 +2775,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max 9D Full Screen Full Glue Ceramic Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005649710.jpg</URL>
       <MAIN>true</MAIN>
@@ -3004,10 +2829,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro 9D Full Screen Full Glue Ceramic Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005649712.jpg</URL>
@@ -3064,10 +2885,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 9D Full Screen Full Glue Ceramic Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005649709.jpg</URL>
       <MAIN>true</MAIN>
@@ -3122,10 +2939,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Max 9D Full Screen Full Glue Ceramic Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005649708.jpg</URL>
@@ -3182,10 +2995,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro 9D Full Screen Full Glue Ceramic Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005649707.jpg</URL>
       <MAIN>true</MAIN>
@@ -3240,10 +3049,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Plus 9D Full Screen Full Glue Ceramic Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005649706.jpg</URL>
@@ -3300,10 +3105,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 9D Full Screen Full Glue Ceramic Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005649705.jpg</URL>
       <MAIN>true</MAIN>
@@ -3358,10 +3159,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Plus Lens Sliding Window Multifunctional Magnetic Shockproof Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008865916D.jpg</URL>
@@ -3422,10 +3219,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Lens Sliding Window Multifunctional Magnetic Shockproof Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008865915D.jpg</URL>
       <MAIN>true</MAIN>
@@ -3484,10 +3277,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 Lens Sliding Window Multifunctional Magnetic Shockproof Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008865924A.jpg</URL>
@@ -3548,10 +3337,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Lens Sliding Window Multifunctional Magnetic Shockproof Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008865922A.jpg</URL>
       <MAIN>true</MAIN>
@@ -3610,10 +3395,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Plus Lens Sliding Window Multifunctional Magnetic Shockproof Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008865920B.jpg</URL>
@@ -3674,10 +3455,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Max Lens Sliding Window Multifunctional Magnetic Shockproof Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008865919E.jpg</URL>
       <MAIN>true</MAIN>
@@ -3736,10 +3513,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 7 Lens Sliding Window Multifunctional Magnetic Shockproof Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008865926B.jpg</URL>
@@ -3800,10 +3573,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Lens Sliding Window Multifunctional Magnetic Shockproof Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008865918E.jpg</URL>
       <MAIN>true</MAIN>
@@ -3862,10 +3631,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Lens Sliding Window Multifunctional Magnetic Shockproof Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008865921A.jpg</URL>
@@ -3926,10 +3691,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Lens Sliding Window Multifunctional Magnetic Shockproof Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008865917D.jpg</URL>
       <MAIN>true</MAIN>
@@ -3988,10 +3749,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17e / 16e Lens Sliding Window Multifunctional Magnetic Shockproof Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008865914A.jpg</URL>
@@ -4052,10 +3809,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Lens Sliding Window Multifunctional Magnetic Shockproof Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008865913E.jpg</URL>
       <MAIN>true</MAIN>
@@ -4115,10 +3868,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Ice Cream Skin Feel Liquid Silicone Fine Circle Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009573803A.jpg</URL>
       <MAIN>true</MAIN>
@@ -4173,10 +3922,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Ice Cream Skin Feel Liquid Silicone Fine Circle Magnetic Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009573801A.jpg</URL>
@@ -4233,10 +3978,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Ice Cream Skin Feel Liquid Silicone Fine Circle Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009573810B.jpg</URL>
       <MAIN>true</MAIN>
@@ -4292,10 +4033,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Ice Cream Skin Feel Liquid Silicone Fine Circle Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009573802D.jpg</URL>
       <MAIN>true</MAIN>
@@ -4350,10 +4087,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>For AirPods Pro 3</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008944301A.jpg</URL>
@@ -4414,10 +4147,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 Pro Max Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657621A.jpg</URL>
       <MAIN>true</MAIN>
@@ -4464,10 +4193,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657624A.jpg</URL>
@@ -4516,10 +4241,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Max Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657623E.jpg</URL>
       <MAIN>true</MAIN>
@@ -4566,10 +4287,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657619B.jpg</URL>
@@ -4618,10 +4335,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657618E.jpg</URL>
       <MAIN>true</MAIN>
@@ -4668,10 +4381,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657620B.jpg</URL>
@@ -4720,10 +4429,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657625C.jpg</URL>
       <MAIN>true</MAIN>
@@ -4770,10 +4475,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Max Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657617E.jpg</URL>
@@ -4822,10 +4523,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657614B.jpg</URL>
       <MAIN>true</MAIN>
@@ -4872,10 +4569,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Plus Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657613B.jpg</URL>
@@ -4924,10 +4617,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657601A.jpg</URL>
       <MAIN>true</MAIN>
@@ -4974,10 +4663,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Plus Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657607B.jpg</URL>
@@ -5026,10 +4711,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657603E.jpg</URL>
       <MAIN>true</MAIN>
@@ -5076,10 +4757,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657606D.jpg</URL>
@@ -5128,10 +4805,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Max Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657605E.jpg</URL>
       <MAIN>true</MAIN>
@@ -5178,10 +4851,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Max Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657616B.jpg</URL>
@@ -5230,10 +4899,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Air Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657604A.jpg</URL>
       <MAIN>true</MAIN>
@@ -5280,10 +4945,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657602C.jpg</URL>
@@ -5332,10 +4993,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17e / 16e Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657626A.jpg</URL>
       <MAIN>true</MAIN>
@@ -5383,10 +5040,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657615A.jpg</URL>
       <MAIN>true</MAIN>
@@ -5433,10 +5086,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17e / 16e Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095527A.jpg</URL>
@@ -5497,10 +5146,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Max Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095519K.jpg</URL>
       <MAIN>true</MAIN>
@@ -5551,10 +5196,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095501F.jpg</URL>
@@ -5607,10 +5248,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 Pro Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095503AA.jpg</URL>
       <MAIN>true</MAIN>
@@ -5661,10 +5298,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Max Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095515O.jpg</URL>
@@ -5717,10 +5350,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Plus Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095521H.jpg</URL>
       <MAIN>true</MAIN>
@@ -5771,10 +5400,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 7 / 8 / SE 2020 Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095531U.jpg</URL>
@@ -5835,10 +5460,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095506I.jpg</URL>
       <MAIN>true</MAIN>
@@ -5890,10 +5511,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095509W.jpg</URL>
       <MAIN>true</MAIN>
@@ -5944,10 +5561,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Air Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095524R.jpg</URL>
@@ -6008,10 +5621,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095525G.jpg</URL>
       <MAIN>true</MAIN>
@@ -6070,10 +5679,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 6s Plus / 6 Plus Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095530O.jpg</URL>
@@ -6134,10 +5739,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 Pro Max Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095504H.jpg</URL>
       <MAIN>true</MAIN>
@@ -6188,10 +5789,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Plus Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095516E.jpg</URL>
@@ -6244,10 +5841,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Max Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095507J.jpg</URL>
       <MAIN>true</MAIN>
@@ -6298,10 +5891,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Max Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095510Z.jpg</URL>
@@ -6354,10 +5943,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095520H.jpg</URL>
       <MAIN>true</MAIN>
@@ -6409,10 +5994,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095522Z.jpg</URL>
       <MAIN>true</MAIN>
@@ -6463,10 +6044,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095533I.jpg</URL>
@@ -6527,10 +6104,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095505Y.jpg</URL>
       <MAIN>true</MAIN>
@@ -6581,10 +6154,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 mini Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095534U.jpg</URL>
@@ -6645,10 +6214,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 mini Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095535N.jpg</URL>
       <MAIN>true</MAIN>
@@ -6708,10 +6273,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095508O.jpg</URL>
       <MAIN>true</MAIN>
@@ -6762,10 +6323,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095523AC.jpg</URL>
@@ -6826,10 +6383,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Animal Pattern Oil Painting Series PC + TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA005095526V.jpg</URL>
       <MAIN>true</MAIN>
@@ -6888,10 +6441,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Full Coverage Frosted Privacy Ceramic Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006189221.jpg</URL>
@@ -6952,10 +6501,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Air Full Coverage Frosted Privacy Ceramic Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006189220.jpg</URL>
       <MAIN>true</MAIN>
@@ -7014,10 +6559,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Full Coverage Frosted Privacy Ceramic Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006189219.jpg</URL>
@@ -7078,10 +6619,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Full Coverage Frosted Privacy Ceramic Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006189218.jpg</URL>
       <MAIN>true</MAIN>
@@ -7140,10 +6677,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Plus Full Coverage Frosted Privacy Ceramic Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006189215.jpg</URL>
@@ -7204,10 +6737,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Full Coverage Frosted Privacy Ceramic Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006189214.jpg</URL>
       <MAIN>true</MAIN>
@@ -7266,10 +6795,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Full Coverage Frosted Privacy Ceramic Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006189216.jpg</URL>
@@ -7330,10 +6855,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Max Full Coverage Frosted Privacy Ceramic Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006189217.jpg</URL>
       <MAIN>true</MAIN>
@@ -7392,10 +6913,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Max / XS Max Full Coverage Frosted Privacy Ceramic Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006189211.jpg</URL>
@@ -7456,10 +6973,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Max / 14 Plus Full Coverage Frosted Privacy Ceramic Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006189205.jpg</URL>
       <MAIN>true</MAIN>
@@ -7518,10 +7031,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro / XS / X Full Coverage Frosted Privacy Ceramic Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006189213.jpg</URL>
@@ -7582,10 +7091,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222723C.jpg</URL>
       <MAIN>true</MAIN>
@@ -7640,10 +7145,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 mini Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222720F.jpg</URL>
@@ -7700,10 +7201,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222712F.jpg</URL>
       <MAIN>true</MAIN>
@@ -7758,10 +7255,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone XS / X Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222724F.jpg</URL>
@@ -7818,10 +7311,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Plus Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222710Q.jpg</URL>
       <MAIN>true</MAIN>
@@ -7876,10 +7365,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Max Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222715H.jpg</URL>
@@ -7936,10 +7421,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222722G.jpg</URL>
       <MAIN>true</MAIN>
@@ -7994,10 +7475,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone SE 2022 / 2020 Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222714P.jpg</URL>
@@ -8054,10 +7531,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 / 13 Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222711R.jpg</URL>
       <MAIN>true</MAIN>
@@ -8112,10 +7585,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Max Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222713P.jpg</URL>
@@ -8172,10 +7641,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222702K.jpg</URL>
       <MAIN>true</MAIN>
@@ -8230,10 +7695,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Max Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222701B.jpg</URL>
@@ -8290,10 +7751,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Plus Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222703D.jpg</URL>
       <MAIN>true</MAIN>
@@ -8348,10 +7805,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 Pro Max Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222719H.jpg</URL>
@@ -8408,10 +7861,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222716E.jpg</URL>
       <MAIN>true</MAIN>
@@ -8466,10 +7915,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 XDcase Frosted Transparent Magnetic Shockproof Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008952103B.jpg</URL>
@@ -8530,10 +7975,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max XDcase Frosted Transparent Magnetic Shockproof Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008952101A.jpg</URL>
       <MAIN>true</MAIN>
@@ -8592,10 +8033,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro XDcase Frosted Transparent Magnetic Shockproof Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008952102B.jpg</URL>
@@ -8656,10 +8093,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Full Glue Screen Tempered Glass Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007126106.jpg</URL>
       <MAIN>true</MAIN>
@@ -8718,10 +8151,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Full Glue Screen Tempered Glass Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007126108.jpg</URL>
@@ -8782,10 +8211,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Air Full Glue Screen Tempered Glass Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007126107.jpg</URL>
       <MAIN>true</MAIN>
@@ -8844,10 +8269,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Full Glue Screen Tempered Glass Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007126105.jpg</URL>
@@ -8908,10 +8329,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Max Full Glue Screen Tempered Glass Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007126104.jpg</URL>
       <MAIN>true</MAIN>
@@ -8970,10 +8387,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Full Glue Screen Tempered Glass Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007126103.jpg</URL>
@@ -9034,10 +8447,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Full Glue Screen Tempered Glass Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007126101.jpg</URL>
       <MAIN>true</MAIN>
@@ -9096,10 +8505,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Plus Full Glue Screen Tempered Glass Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007126102.jpg</URL>
@@ -9160,10 +8565,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>For AirPods Pro 2</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008944303E.jpg</URL>
       <MAIN>true</MAIN>
@@ -9223,10 +8624,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Max Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222706P.jpg</URL>
       <MAIN>true</MAIN>
@@ -9281,10 +8678,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222709O.jpg</URL>
@@ -9341,10 +8734,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Plus Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222708B.jpg</URL>
       <MAIN>true</MAIN>
@@ -9400,10 +8789,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222707K.jpg</URL>
       <MAIN>true</MAIN>
@@ -9458,10 +8843,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro XDcase Titanium Alloy Hollow Camera Lens Protector</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008664102A.jpg</URL>
@@ -9522,10 +8903,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max XDcase Titanium Alloy Hollow Camera Lens Protector</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008664101A.jpg</URL>
       <MAIN>true</MAIN>
@@ -9585,10 +8962,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Clear Acrylic TPU MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079808A.jpg</URL>
       <MAIN>true</MAIN>
@@ -9643,10 +9016,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Clear Acrylic TPU MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079806A.jpg</URL>
@@ -9703,10 +9072,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Max Clear Acrylic TPU MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079805A.jpg</URL>
       <MAIN>true</MAIN>
@@ -9761,10 +9126,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Plus Clear Acrylic TPU MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079807A.jpg</URL>
@@ -9821,10 +9182,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Dopamine Simple Imitation Liquid Silicone Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007866023K.jpg</URL>
       <MAIN>true</MAIN>
@@ -9871,10 +9228,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Dopamine Simple Imitation Liquid Silicone Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007866022L.jpg</URL>
@@ -9923,10 +9276,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Air Dopamine Simple Imitation Liquid Silicone Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007866025C.jpg</URL>
       <MAIN>true</MAIN>
@@ -9973,10 +9322,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Dopamine Simple Imitation Liquid Silicone Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007866024F.jpg</URL>
@@ -10025,10 +9370,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Max Dopamine Simple Imitation Liquid Silicone Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007866020F.jpg</URL>
       <MAIN>true</MAIN>
@@ -10076,10 +9417,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Dopamine Simple Imitation Liquid Silicone Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007866021E.jpg</URL>
       <MAIN>true</MAIN>
@@ -10126,10 +9463,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222729G.jpg</URL>
@@ -10190,10 +9523,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222731J.jpg</URL>
       <MAIN>true</MAIN>
@@ -10252,10 +9581,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Air Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222730O.jpg</URL>
@@ -10316,10 +9641,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222728R.jpg</URL>
       <MAIN>true</MAIN>
@@ -10378,10 +9699,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>For AirPods Max 2 / 1</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008944601A.jpg</URL>
@@ -10442,10 +9759,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 XDcase Metal Lens Frame Skin Feel Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008857103B.jpg</URL>
       <MAIN>true</MAIN>
@@ -10504,10 +9817,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro XDcase Metal Lens Frame Skin Feel Magnetic Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008857102B.jpg</URL>
@@ -10568,10 +9877,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max XDcase Metal Lens Frame Skin Feel Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008857101A.jpg</URL>
       <MAIN>true</MAIN>
@@ -10631,10 +9936,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Plus Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657611D.jpg</URL>
       <MAIN>true</MAIN>
@@ -10681,10 +9982,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Max Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657609E.jpg</URL>
@@ -10733,10 +10030,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657610D.jpg</URL>
       <MAIN>true</MAIN>
@@ -10783,10 +10076,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657612B.jpg</URL>
@@ -10835,10 +10124,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Macaron Striped Full Coverage PC Phone Case with Star Holder</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009657608D.jpg</URL>
       <MAIN>true</MAIN>
@@ -10885,10 +10170,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Max Ice Cream Skin Feel Liquid Silicone Fine Circle Magnetic Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009573813H.jpg</URL>
@@ -10945,10 +10226,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Ice Cream Skin Feel Liquid Silicone Fine Circle Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009573811H.jpg</URL>
       <MAIN>true</MAIN>
@@ -11003,10 +10280,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Ice Cream Skin Feel Liquid Silicone Fine Circle Magnetic Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009573806A.jpg</URL>
@@ -11063,10 +10336,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Ice Cream Skin Feel Liquid Silicone Fine Circle Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009573805F.jpg</URL>
       <MAIN>true</MAIN>
@@ -11121,10 +10390,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Ice Cream Skin Feel Liquid Silicone Fine Circle Magnetic Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009573814C.jpg</URL>
@@ -11181,10 +10446,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Max Ice Cream Skin Feel Liquid Silicone Fine Circle Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009573812G.jpg</URL>
       <MAIN>true</MAIN>
@@ -11239,10 +10500,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Max Ice Cream Skin Feel Liquid Silicone Fine Circle Magnetic Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009573804H.jpg</URL>
@@ -11299,10 +10556,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Plus Solid Color Liquid Silicone MagSafe Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007013707J.jpg</URL>
       <MAIN>true</MAIN>
@@ -11357,10 +10610,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Solid Color Liquid Silicone MagSafe Magnetic Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007013708M.jpg</URL>
@@ -11417,10 +10666,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Max Solid Color Liquid Silicone MagSafe Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007013705I.jpg</URL>
       <MAIN>true</MAIN>
@@ -11476,10 +10721,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Solid Color Liquid Silicone MagSafe Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007013706E.jpg</URL>
       <MAIN>true</MAIN>
@@ -11534,10 +10775,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757712A.jpg</URL>
@@ -11598,10 +10835,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757710A.jpg</URL>
       <MAIN>true</MAIN>
@@ -11660,10 +10893,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Plus Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757711A.jpg</URL>
@@ -11724,10 +10953,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Max Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757709A.jpg</URL>
       <MAIN>true</MAIN>
@@ -11787,10 +11012,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686519D.jpg</URL>
       <MAIN>true</MAIN>
@@ -11841,10 +11062,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Max Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686517C.jpg</URL>
@@ -11897,10 +11114,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686518C.jpg</URL>
       <MAIN>true</MAIN>
@@ -11951,10 +11164,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686515B.jpg</URL>
@@ -12007,10 +11216,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686503B.jpg</URL>
       <MAIN>true</MAIN>
@@ -12061,10 +11266,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686508B.jpg</URL>
@@ -12117,10 +11318,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 Pro Max Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686521C.jpg</URL>
       <MAIN>true</MAIN>
@@ -12171,10 +11368,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686514A.jpg</URL>
@@ -12227,10 +11420,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Plus Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686513C.jpg</URL>
       <MAIN>true</MAIN>
@@ -12281,10 +11470,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Max Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686505C.jpg</URL>
@@ -12337,10 +11522,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686523B.jpg</URL>
       <MAIN>true</MAIN>
@@ -12391,10 +11572,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Max Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686516C.jpg</URL>
@@ -12447,10 +11624,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686506C.jpg</URL>
       <MAIN>true</MAIN>
@@ -12501,10 +11674,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 Pro Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686522D.jpg</URL>
@@ -12557,10 +11726,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Air Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686504C.jpg</URL>
       <MAIN>true</MAIN>
@@ -12611,10 +11776,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Plus Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686507B.jpg</URL>
@@ -12667,10 +11828,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686502A.jpg</URL>
       <MAIN>true</MAIN>
@@ -12722,10 +11879,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Christmas Print Transparent Acrylic TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009686501A.jpg</URL>
       <MAIN>true</MAIN>
@@ -12776,10 +11929,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17e / 16e Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222705A.jpg</URL>
@@ -12835,10 +11984,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 / 15 Plus XDcase Transparent Integrated Tempered Glass Camera Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679408.jpg</URL>
@@ -12899,10 +12044,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro / 15 Pro Max XDcase Transparent Integrated Tempered Glass Camera Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679407.jpg</URL>
       <MAIN>true</MAIN>
@@ -12961,10 +12102,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>Lanyards &amp; Wrist Straps</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009711501A.jpg</URL>
@@ -13025,10 +12162,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>Lanyards &amp; Wrist Straps</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008669501A.jpg</URL>
       <MAIN>true</MAIN>
@@ -13087,10 +12220,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Liquid Silicone Phone MagSafe Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007391210K.jpg</URL>
@@ -13151,10 +12280,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 Liquid Silicone Phone MagSafe Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007391216K.jpg</URL>
       <MAIN>true</MAIN>
@@ -13213,10 +12338,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Air Liquid Silicone Phone MagSafe Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007391224C.jpg</URL>
@@ -13277,10 +12398,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Liquid Silicone Phone MagSafe Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007391225F.jpg</URL>
       <MAIN>true</MAIN>
@@ -13339,10 +12456,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Liquid Silicone Phone MagSafe Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007391222A.jpg</URL>
@@ -13403,10 +12516,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Liquid Silicone Phone MagSafe Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007391223B.jpg</URL>
       <MAIN>true</MAIN>
@@ -13465,10 +12574,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Plus Liquid Silicone Phone MagSafe Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007391203H.jpg</URL>
@@ -13529,10 +12634,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Liquid Silicone Phone MagSafe Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007391204E.jpg</URL>
       <MAIN>true</MAIN>
@@ -13591,10 +12692,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Liquid Silicone Phone MagSafe Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007391202J.jpg</URL>
@@ -13655,10 +12752,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Max Liquid Silicone Phone MagSafe Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007391201B.jpg</URL>
       <MAIN>true</MAIN>
@@ -13717,10 +12810,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Max Liquid Silicone Phone MagSafe Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007391219E.jpg</URL>
@@ -13781,10 +12870,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Liquid Silicone Phone MagSafe Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007391221F.jpg</URL>
       <MAIN>true</MAIN>
@@ -13843,10 +12928,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Liquid Silicone Phone MagSafe Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007391220A.jpg</URL>
@@ -13907,10 +12988,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Max Liquid Silicone Phone MagSafe Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007391212D.jpg</URL>
       <MAIN>true</MAIN>
@@ -13969,10 +13046,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Liquid Silicone Phone MagSafe Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007391215C.jpg</URL>
@@ -14033,10 +13106,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Liquid Silicone Phone MagSafe Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007391214C.jpg</URL>
       <MAIN>true</MAIN>
@@ -14095,10 +13164,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 Pro Max Liquid Silicone Phone MagSafe Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007391217B.jpg</URL>
@@ -14159,10 +13224,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Max Liquid Silicone Phone MagSafe Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007391213B.jpg</URL>
       <MAIN>true</MAIN>
@@ -14221,10 +13282,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Liquid Silicone Phone MagSafe Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007391211J.jpg</URL>
@@ -14285,10 +13342,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Plus Liquid Silicone Phone MagSafe Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007391209A.jpg</URL>
       <MAIN>true</MAIN>
@@ -14347,10 +13400,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Liquid Silicone Phone MagSafe Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007391210A.jpg</URL>
@@ -14411,10 +13460,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro / 16 Pro Max XDcase Transparent Integrated Tempered Glass Camera Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679405.jpg</URL>
       <MAIN>true</MAIN>
@@ -14473,10 +13518,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Air XDcase Transparent Integrated Tempered Glass Camera Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679404.jpg</URL>
@@ -14537,10 +13578,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro / 13 Pro Max XDcase Transparent Integrated Tempered Glass Camera Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679411.jpg</URL>
       <MAIN>true</MAIN>
@@ -14599,10 +13636,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro / 14 Pro Max XDcase Transparent Integrated Tempered Glass Camera Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679410.jpg</URL>
@@ -14663,10 +13696,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 / 14 Plus XDcase Transparent Integrated Tempered Glass Camera Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679409.jpg</URL>
       <MAIN>true</MAIN>
@@ -14725,10 +13754,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 / 16 Plus XDcase Transparent Integrated Tempered Glass Camera Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679406.jpg</URL>
@@ -14789,10 +13814,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro XDcase Transparent Integrated Tempered Glass Camera Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679402.jpg</URL>
       <MAIN>true</MAIN>
@@ -14851,10 +13872,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 / 13 mini XDcase Transparent Integrated Tempered Glass Camera Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679412.jpg</URL>
@@ -14915,10 +13932,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max XDcase Transparent Integrated Tempered Glass Camera Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679401.jpg</URL>
       <MAIN>true</MAIN>
@@ -14978,10 +13991,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Max Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222721C.jpg</URL>
       <MAIN>true</MAIN>
@@ -15036,10 +14045,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 mini Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222717P.jpg</URL>
@@ -15096,10 +14101,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 / 12 Pro Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222718A.jpg</URL>
       <MAIN>true</MAIN>
@@ -15154,10 +14155,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Skin Feel Solid Color Leather Phone Case with Lanyard</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007222704E.jpg</URL>
@@ -15214,10 +14211,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Line Splicing Buckle Retro Leather Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858629B.jpg</URL>
       <MAIN>true</MAIN>
@@ -15269,10 +14262,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Air Line Splicing Buckle Retro Leather Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858631D.jpg</URL>
       <MAIN>true</MAIN>
@@ -15323,10 +14312,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone X / XS Line Splicing Buckle Retro Leather Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858623G.jpg</URL>
@@ -15383,10 +14368,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Max Line Splicing Buckle Retro Leather Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858601F.jpg</URL>
       <MAIN>true</MAIN>
@@ -15441,10 +14422,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Line Splicing Buckle Retro Leather Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858622B.jpg</URL>
@@ -15501,10 +14478,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Max Line Splicing Buckle Retro Leather Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858620E.jpg</URL>
       <MAIN>true</MAIN>
@@ -15559,10 +14532,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 / 12 Pro Line Splicing Buckle Retro Leather Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858617H.jpg</URL>
@@ -15619,10 +14588,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Line Splicing Buckle Retro Leather Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858615C.jpg</URL>
       <MAIN>true</MAIN>
@@ -15677,10 +14642,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Line Splicing Buckle Retro Leather Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858602B.jpg</URL>
@@ -15737,10 +14698,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 mini Line Splicing Buckle Retro Leather Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858616A.jpg</URL>
       <MAIN>true</MAIN>
@@ -15795,10 +14752,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Max Line Splicing Buckle Retro Leather Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858614E.jpg</URL>
@@ -15855,10 +14808,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Line Splicing Buckle Retro Leather Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858611H.jpg</URL>
       <MAIN>true</MAIN>
@@ -15913,10 +14862,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 / 13 Line Splicing Buckle Retro Leather Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858610E.jpg</URL>
@@ -15973,10 +14918,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Line Splicing Buckle Retro Leather Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858621B.jpg</URL>
       <MAIN>true</MAIN>
@@ -16031,10 +14972,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 7 / 8 / SE 2022 Line Splicing Buckle Retro Leather Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858613G.jpg</URL>
@@ -16091,10 +15028,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Line Splicing Buckle Retro Leather Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858604C.jpg</URL>
       <MAIN>true</MAIN>
@@ -16149,10 +15082,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17e / 16e Line Splicing Buckle Retro Leather Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858627A.jpg</URL>
@@ -16209,10 +15138,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Plus Line Splicing Buckle Retro Leather Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858603F.jpg</URL>
       <MAIN>true</MAIN>
@@ -16267,10 +15192,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 mini Line Splicing Buckle Retro Leather Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858619F.jpg</URL>
@@ -16327,10 +15248,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 Pro Max Line Splicing Buckle Retro Leather Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858618D.jpg</URL>
       <MAIN>true</MAIN>
@@ -16385,10 +15302,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Max Line Splicing Buckle Retro Leather Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858612H.jpg</URL>
@@ -16445,10 +15358,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Plus Line Splicing Buckle Retro Leather Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858609C.jpg</URL>
       <MAIN>true</MAIN>
@@ -16503,10 +15412,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 XDcase Skin Feel Magnetic Frosted Phone Case with Lens Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008877303B.jpg</URL>
@@ -16563,10 +15468,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max XDcase Skin Feel Magnetic Frosted Phone Case with Lens Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008877301A.jpg</URL>
       <MAIN>true</MAIN>
@@ -16621,10 +15522,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro XDcase Skin Feel Magnetic Frosted Phone Case with Lens Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008877302B.jpg</URL>
@@ -16681,10 +15578,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Air XDcase Skin Feel Magnetic Frosted Phone Case with Lens Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008877304E.jpg</URL>
       <MAIN>true</MAIN>
@@ -16739,10 +15632,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Plus Line Splicing Buckle Retro Leather Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858607H.jpg</URL>
@@ -16799,10 +15688,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Max Line Splicing Buckle Retro Leather Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858605C.jpg</URL>
       <MAIN>true</MAIN>
@@ -16857,10 +15742,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Line Splicing Buckle Retro Leather Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858606H.jpg</URL>
@@ -16917,10 +15798,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Line Splicing Buckle Retro Leather Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858608E.jpg</URL>
       <MAIN>true</MAIN>
@@ -16975,10 +15852,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 XDcase Transparent Integrated Tempered Glass Camera Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679403.jpg</URL>
@@ -17039,10 +15912,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro XDcase Armor Full-Coverage Frosted Metal Camera Lens Ring Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008643302B.jpg</URL>
       <MAIN>true</MAIN>
@@ -17102,10 +15971,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 / 12 Pro Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668622I.jpg</URL>
       <MAIN>true</MAIN>
@@ -17156,10 +16021,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone SE 2022 / SE 2020 / 8 / 7 Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668618I.jpg</URL>
@@ -17212,10 +16073,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Max Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668617C.jpg</URL>
       <MAIN>true</MAIN>
@@ -17266,10 +16123,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 8 Plus / 7 Plus Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668630F.jpg</URL>
@@ -17322,10 +16175,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668626J.jpg</URL>
       <MAIN>true</MAIN>
@@ -17376,10 +16225,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Max Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668624B.jpg</URL>
@@ -17432,10 +16277,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 Pro Max Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668623G.jpg</URL>
       <MAIN>true</MAIN>
@@ -17486,10 +16327,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668621B.jpg</URL>
@@ -17542,10 +16379,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668602H.jpg</URL>
       <MAIN>true</MAIN>
@@ -17596,10 +16429,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Max Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668606D.jpg</URL>
@@ -17652,10 +16481,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Air Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668605I.jpg</URL>
       <MAIN>true</MAIN>
@@ -17706,10 +16531,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668625A.jpg</URL>
@@ -17762,10 +16583,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668620A.jpg</URL>
       <MAIN>true</MAIN>
@@ -17816,10 +16633,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668603G.jpg</URL>
@@ -17872,10 +16685,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17e / 16e Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668601A.jpg</URL>
       <MAIN>true</MAIN>
@@ -17926,10 +16735,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Max Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668619H.jpg</URL>
@@ -17982,10 +16787,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668615K.jpg</URL>
       <MAIN>true</MAIN>
@@ -18036,10 +16837,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Plus Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668614C.jpg</URL>
@@ -18092,10 +16889,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668609A.jpg</URL>
       <MAIN>true</MAIN>
@@ -18146,10 +16939,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Plus Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668608J.jpg</URL>
@@ -18202,10 +16991,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668616C.jpg</URL>
       <MAIN>true</MAIN>
@@ -18256,10 +17041,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668607B.jpg</URL>
@@ -18312,10 +17093,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Colorful Silver Pattern PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009668604I.jpg</URL>
       <MAIN>true</MAIN>
@@ -18366,10 +17143,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max XDcase Armor Full-Coverage Frosted Metal Camera Lens Ring Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008643301A.jpg</URL>
@@ -18430,10 +17203,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759812A.jpg</URL>
       <MAIN>true</MAIN>
@@ -18492,10 +17261,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759810A.jpg</URL>
@@ -18556,10 +17321,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Plus Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759811A.jpg</URL>
       <MAIN>true</MAIN>
@@ -18618,10 +17379,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Max Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759809A.jpg</URL>
@@ -18682,10 +17439,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Armor Shield Mesh Cooling Magnetic Phone Case with Lens Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009785211F.jpg</URL>
       <MAIN>true</MAIN>
@@ -18744,10 +17497,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Max Armor Shield Mesh Cooling Magnetic Phone Case with Lens Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009785208E.jpg</URL>
@@ -18808,10 +17557,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Plus / 14 Plus Armor Shield Mesh Cooling Magnetic Phone Case with Lens Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009785210C.jpg</URL>
       <MAIN>true</MAIN>
@@ -18870,10 +17615,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro XDcase 5pcs Armor Full-Coverage Frosted Metal Camera Lens Ring Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008963502B.jpg</URL>
@@ -18934,10 +17675,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max XDcase 5pcs Armor Full-Coverage Frosted Metal Camera Lens Ring Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008963501A.jpg</URL>
       <MAIN>true</MAIN>
@@ -18996,10 +17733,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone XR Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759830A.jpg</URL>
@@ -19060,10 +17793,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759827A.jpg</URL>
       <MAIN>true</MAIN>
@@ -19122,10 +17851,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Plus Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759807A.jpg</URL>
@@ -19186,10 +17911,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Air Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759804A.jpg</URL>
       <MAIN>true</MAIN>
@@ -19248,10 +17969,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759803A.jpg</URL>
@@ -19312,10 +18029,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759802A.jpg</URL>
       <MAIN>true</MAIN>
@@ -19374,10 +18087,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Max Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759826A.jpg</URL>
@@ -19438,10 +18147,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 mini Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759821A.jpg</URL>
       <MAIN>true</MAIN>
@@ -19500,10 +18205,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759808A.jpg</URL>
@@ -19564,10 +18265,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759806A.jpg</URL>
       <MAIN>true</MAIN>
@@ -19626,10 +18323,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759814A.jpg</URL>
@@ -19690,10 +18383,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Max Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759805A.jpg</URL>
       <MAIN>true</MAIN>
@@ -19752,10 +18441,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759828A.jpg</URL>
@@ -19816,10 +18501,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759820A.jpg</URL>
       <MAIN>true</MAIN>
@@ -19878,10 +18559,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759819A.jpg</URL>
@@ -19942,10 +18619,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759801A.jpg</URL>
       <MAIN>true</MAIN>
@@ -20004,10 +18677,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 Pro Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759824A.jpg</URL>
@@ -20068,10 +18737,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone SE 2022 / SE 2020 / 7 / 8 Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759817A.jpg</URL>
       <MAIN>true</MAIN>
@@ -20130,10 +18795,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 mini Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759825A.jpg</URL>
@@ -20194,10 +18855,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 Pro Max Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759823A.jpg</URL>
       <MAIN>true</MAIN>
@@ -20256,10 +18913,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17e / 16e Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759822A.jpg</URL>
@@ -20320,10 +18973,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Max Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759818A.jpg</URL>
       <MAIN>true</MAIN>
@@ -20382,10 +19031,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Max Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759816A.jpg</URL>
@@ -20446,10 +19091,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759815A.jpg</URL>
       <MAIN>true</MAIN>
@@ -20508,10 +19149,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Plus Clear Acrylic Airbag Magnetic Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009759813A.jpg</URL>
@@ -20572,10 +19209,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17e Clear Acrylic TPU MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079827A.jpg</URL>
       <MAIN>true</MAIN>
@@ -20630,10 +19263,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max XDcase Silkscreen Integrated Tempered Glass Back Camera Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679309.jpg</URL>
@@ -20694,10 +19323,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 / 14 Plus XDcase Silkscreen Integrated Tempered Glass Back Camera Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679306.jpg</URL>
       <MAIN>true</MAIN>
@@ -20756,10 +19381,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro / 14 Pro Max XDcase Silkscreen Integrated Tempered Glass Back Camera Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679305.jpg</URL>
@@ -20820,10 +19441,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Air XDcase Silkscreen Integrated Tempered Glass Back Camera Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679312.jpg</URL>
       <MAIN>true</MAIN>
@@ -20882,10 +19499,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro XDcase Silkscreen Integrated Tempered Glass Back Camera Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679310.jpg</URL>
@@ -20946,10 +19559,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro / 16 Pro Max XDcase Silkscreen Integrated Tempered Glass Back Camera Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679301.jpg</URL>
       <MAIN>true</MAIN>
@@ -21008,10 +19617,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro / 13 Pro Max XDcase Silkscreen Integrated Tempered Glass Back Camera Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679307.jpg</URL>
@@ -21072,10 +19677,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 XDcase Silkscreen Integrated Tempered Glass Back Camera Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679311.jpg</URL>
       <MAIN>true</MAIN>
@@ -21134,10 +19735,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 / 16 Plus XDcase Silkscreen Integrated Tempered Glass Back Camera Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679302.jpg</URL>
@@ -21198,10 +19795,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Clear Acrylic TPU MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079822A.jpg</URL>
       <MAIN>true</MAIN>
@@ -21256,10 +19849,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Clear Acrylic TPU MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079823A.jpg</URL>
@@ -21316,10 +19905,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Air Clear Acrylic TPU MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079825A.jpg</URL>
       <MAIN>true</MAIN>
@@ -21374,10 +19959,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Clear Acrylic TPU MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079824A.jpg</URL>
@@ -21434,10 +20015,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Plus Clear Acrylic TPU MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079809A.jpg</URL>
       <MAIN>true</MAIN>
@@ -21492,10 +20069,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Clear Acrylic TPU MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079815A.jpg</URL>
@@ -21552,10 +20125,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Max Clear Acrylic TPU MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079812A.jpg</URL>
       <MAIN>true</MAIN>
@@ -21610,10 +20179,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Clear Acrylic TPU MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079814A.jpg</URL>
@@ -21670,10 +20235,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Max Clear Acrylic TPU MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079813A.jpg</URL>
       <MAIN>true</MAIN>
@@ -21728,10 +20289,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Clear Acrylic TPU MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079811A.jpg</URL>
@@ -21788,10 +20345,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Max Clear Acrylic TPU MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079819A.jpg</URL>
       <MAIN>true</MAIN>
@@ -21846,10 +20399,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 Pro Max Clear Acrylic TPU MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079817A.jpg</URL>
@@ -21906,10 +20455,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Clear Acrylic TPU MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079804A.jpg</URL>
       <MAIN>true</MAIN>
@@ -21964,10 +20509,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Max Clear Acrylic TPU MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079801A.jpg</URL>
@@ -22024,10 +20565,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 Clear Acrylic TPU MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079816A.jpg</URL>
       <MAIN>true</MAIN>
@@ -22082,10 +20619,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Clear Acrylic TPU MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079820A.jpg</URL>
@@ -22142,10 +20675,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Plus Clear Acrylic TPU MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079803A.jpg</URL>
       <MAIN>true</MAIN>
@@ -22200,10 +20729,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Clear Acrylic TPU MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079802A.jpg</URL>
@@ -22260,10 +20785,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Clear Acrylic TPU MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079821A.jpg</URL>
       <MAIN>true</MAIN>
@@ -22318,10 +20839,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Clear Acrylic TPU MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007079810A.jpg</URL>
@@ -22378,10 +20895,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Line Splicing Buckle Retro Leather Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858630F.jpg</URL>
       <MAIN>true</MAIN>
@@ -22437,10 +20950,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Line Splicing Buckle Retro Leather Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007858628B.jpg</URL>
       <MAIN>true</MAIN>
@@ -22491,10 +21000,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Fold imak H Series Tempered Glass Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009771701.jpg</URL>
@@ -22555,10 +21060,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 PC Hybrid TPU Airbag Shockproof Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007843515A.jpg</URL>
       <MAIN>true</MAIN>
@@ -22614,10 +21115,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro kalebol Metal 360 Degree Rotation Holder MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008480220A.jpg</URL>
       <MAIN>true</MAIN>
@@ -22672,10 +21169,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 High Aluminum 380 Glue Silk Screen Printed Tempered Glass Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009102610.jpg</URL>
@@ -22736,10 +21229,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 10pcs 0.18mm High Aluminum Tempered Glass Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009819501.jpg</URL>
       <MAIN>true</MAIN>
@@ -22790,10 +21279,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 / 18 Pro Dustproof 28-Degree Matte Privacy Tempered Glass Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009819801.jpg</URL>
@@ -22850,10 +21335,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max 3D Bow-Tie Cat Mirror Holder Plush Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009820501A.jpg</URL>
       <MAIN>true</MAIN>
@@ -22908,10 +21389,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro Textured Non-slip Shockproof Magnetic Phone Case with Holder</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009818903A.jpg</URL>
@@ -22972,10 +21449,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 / 18 Pro 25pcs Dustproof 28-Degree Matte Privacy Tempered Glass Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009819901.jpg</URL>
       <MAIN>true</MAIN>
@@ -23026,10 +21499,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max 3D Bow-Tie Cat Mirror Holder Plush Phone Case with Strap</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009821101A.jpg</URL>
@@ -23090,10 +21559,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 50pcs 0.18mm High Aluminum Tempered Glass Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009819601.jpg</URL>
       <MAIN>true</MAIN>
@@ -23144,10 +21609,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757727A.jpg</URL>
@@ -23208,10 +21669,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17e / 16e Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757732A.jpg</URL>
       <MAIN>true</MAIN>
@@ -23270,10 +21727,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757726A.jpg</URL>
@@ -23334,10 +21787,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757720A.jpg</URL>
       <MAIN>true</MAIN>
@@ -23396,10 +21845,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757708A.jpg</URL>
@@ -23460,10 +21905,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757702A.jpg</URL>
       <MAIN>true</MAIN>
@@ -23522,10 +21963,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757719A.jpg</URL>
@@ -23586,10 +22023,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone SE 2022 / SE 2020 / 7 / 8 Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757717A.jpg</URL>
       <MAIN>true</MAIN>
@@ -23648,10 +22081,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 mini Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757721A.jpg</URL>
@@ -23712,10 +22141,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Max Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757716A.jpg</URL>
       <MAIN>true</MAIN>
@@ -23774,10 +22199,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Max Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757705A.jpg</URL>
@@ -23838,10 +22259,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757715A.jpg</URL>
       <MAIN>true</MAIN>
@@ -23900,10 +22317,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757714A.jpg</URL>
@@ -23964,10 +22377,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Plus Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757707A.jpg</URL>
       <MAIN>true</MAIN>
@@ -24026,10 +22435,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757706A.jpg</URL>
@@ -24090,10 +22495,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone X / XS Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757728A.jpg</URL>
       <MAIN>true</MAIN>
@@ -24152,10 +22553,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 / 12 Pro Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757722A.jpg</URL>
@@ -24216,10 +22613,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 mini Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757724A.jpg</URL>
       <MAIN>true</MAIN>
@@ -24278,10 +22671,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Max Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757718A.jpg</URL>
@@ -24342,10 +22731,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Plus Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757713A.jpg</URL>
       <MAIN>true</MAIN>
@@ -24404,10 +22789,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Max Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757725A.jpg</URL>
@@ -24468,10 +22849,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 Pro Max Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757723A.jpg</URL>
       <MAIN>true</MAIN>
@@ -24530,10 +22907,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Air Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757704A.jpg</URL>
@@ -24594,10 +22967,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757703A.jpg</URL>
       <MAIN>true</MAIN>
@@ -24656,10 +23025,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Clear Acrylic Airbag Phone Case with Lanyard Holes</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009757701A.jpg</URL>
@@ -24720,10 +23085,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Max Electroplating MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968603D.jpg</URL>
       <MAIN>true</MAIN>
@@ -24774,10 +23135,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Electroplating MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968607A.jpg</URL>
@@ -24830,10 +23187,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Electroplating MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968608H.jpg</URL>
       <MAIN>true</MAIN>
@@ -24884,10 +23237,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Max Electroplating MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968613C.jpg</URL>
@@ -24940,10 +23289,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Plus Electroplating MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968619D.jpg</URL>
       <MAIN>true</MAIN>
@@ -24994,10 +23339,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Electroplating MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968601F.jpg</URL>
@@ -25050,10 +23391,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 Electroplating MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968604B.jpg</URL>
       <MAIN>true</MAIN>
@@ -25104,10 +23441,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Pro Electroplating MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968612G.jpg</URL>
@@ -25160,10 +23493,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Electroplating MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968618C.jpg</URL>
       <MAIN>true</MAIN>
@@ -25214,10 +23543,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Electroplating MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968623F.jpg</URL>
@@ -25270,10 +23595,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 11 Pro Electroplating MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968602A.jpg</URL>
       <MAIN>true</MAIN>
@@ -25325,10 +23646,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Electroplating MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968624I.jpg</URL>
       <MAIN>true</MAIN>
@@ -25376,10 +23693,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Electroplating MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968620K.jpg</URL>
       <MAIN>true</MAIN>
@@ -25426,10 +23739,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 12 Pro Max Electroplating MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968606G.jpg</URL>
@@ -25482,10 +23791,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Plus Electroplating MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968611C.jpg</URL>
       <MAIN>true</MAIN>
@@ -25536,10 +23841,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 16 Pro Max Electroplating MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968621G.jpg</URL>
@@ -25592,10 +23893,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Electroplating MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968625A.jpg</URL>
       <MAIN>true</MAIN>
@@ -25646,10 +23943,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 14 Electroplating MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968610F.jpg</URL>
@@ -25702,10 +23995,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Air Electroplating MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968626I.jpg</URL>
       <MAIN>true</MAIN>
@@ -25753,10 +24042,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17e / 16e Electroplating MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968622A.jpg</URL>
       <MAIN>true</MAIN>
@@ -25803,10 +24088,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 13 Pro Max Electroplating MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968609D.jpg</URL>
@@ -25859,10 +24140,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Electroplating MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968614I.jpg</URL>
       <MAIN>true</MAIN>
@@ -25909,10 +24186,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Electroplating MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968616C.jpg</URL>
@@ -25965,10 +24238,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Max Electroplating MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968617A.jpg</URL>
       <MAIN>true</MAIN>
@@ -26020,10 +24289,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Plus Electroplating MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006968615F.jpg</URL>
       <MAIN>true</MAIN>
@@ -26074,10 +24339,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro / 15 Pro Max XDcase Silkscreen Integrated Tempered Glass Back Camera Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679303.jpg</URL>
@@ -26138,10 +24399,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 / 15 Plus XDcase Silkscreen Integrated Tempered Glass Back Camera Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008679304.jpg</URL>
       <MAIN>true</MAIN>
@@ -26200,10 +24457,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 15 Pro Armor Shield Mesh Cooling Magnetic Phone Case with Lens Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009785209A.jpg</URL>
@@ -26264,10 +24517,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Fire Series PC Silicone Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009789601A.jpg</URL>
       <MAIN>true</MAIN>
@@ -26314,10 +24563,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max 360 Degree Rotation Holder Magnetic Electroplated Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009789401C.jpg</URL>
@@ -26373,10 +24618,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Minimalist Heart Pattern 360 Rotating Holder Magnetic Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009790601A.jpg</URL>
@@ -26437,10 +24678,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Minimalist Star Pattern 360 Rotating Holder Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009790801A.jpg</URL>
       <MAIN>true</MAIN>
@@ -26496,10 +24733,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Earth Series PC Silicone Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009790201A.jpg</URL>
       <MAIN>true</MAIN>
@@ -26546,10 +24779,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Four Corner Airbag Transparent Skin Feel Magnetic Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009789101A.jpg</URL>
@@ -26606,10 +24835,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Candy Diamond Half-frame Frosted PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009772824A.jpg</URL>
       <MAIN>true</MAIN>
@@ -26665,10 +24890,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Water Series PC Silicone Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009790101A.jpg</URL>
       <MAIN>true</MAIN>
@@ -26716,10 +24937,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Colorful Painting PC Silicone Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009791101A.jpg</URL>
       <MAIN>true</MAIN>
@@ -26766,10 +24983,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17e / 16e Kalebol Matte Anti-Fingerprint Screen-Printed HD Tempered Glass Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/SYA003400001.jpg</URL>
@@ -26830,10 +25043,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Gold Series PC Silicone Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009789801A.jpg</URL>
       <MAIN>true</MAIN>
@@ -26880,10 +25089,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Minimalist Point Pattern 360 Rotating Holder Magnetic Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009790701A.jpg</URL>
@@ -26940,10 +25145,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Wood Series PC Silicone Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009789901A.jpg</URL>
       <MAIN>true</MAIN>
@@ -26991,10 +25192,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Colorful Painting PC Silicone Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009791301A.jpg</URL>
       <MAIN>true</MAIN>
@@ -27041,10 +25238,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Candy Magsafe PC Hybrid TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007087731A.jpg</URL>
@@ -27101,10 +25294,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Candy PC Hybrid TPU Shockproof Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007087828A.jpg</URL>
       <MAIN>true</MAIN>
@@ -27159,10 +25348,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 BETOPNICE Pearlescent RFID Vegan Leather Phone Case with Strap</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009808727A.jpg</URL>
@@ -27223,10 +25408,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Shockproof Non-slip Thickening TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA004601916A.jpg</URL>
       <MAIN>true</MAIN>
@@ -27273,10 +25454,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Waterproof Texture TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA004602416A.jpg</URL>
@@ -27325,10 +25502,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Scratchproof Acrylic TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006356812A.jpg</URL>
       <MAIN>true</MAIN>
@@ -27375,10 +25548,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Skin Feel Frosted Liquid Silicone Magnetic Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009818601A.jpg</URL>
@@ -27434,10 +25603,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro CD Texture Sliding Camshield Magnetic Holder Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA004654928A.jpg</URL>
@@ -27498,10 +25663,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro Sliding Camshield TPU+PC Phone Case with Card Slot</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006902714A.jpg</URL>
       <MAIN>true</MAIN>
@@ -27560,10 +25721,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro Lens Sliding Window Multifunctional Magnetic Shockproof Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008865930A.jpg</URL>
@@ -27624,10 +25781,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Shockproof Non-slip Magnetic TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009223929A.jpg</URL>
       <MAIN>true</MAIN>
@@ -27674,10 +25827,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro Kalebol High-Aluminum Screen-Printed Full-Coverage Anti-Fingerprint Black-Bordered HD Tempered Glass Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/SYA003060341.jpg</URL>
@@ -27738,10 +25887,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Armor MagSafe PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007314913A.jpg</URL>
       <MAIN>true</MAIN>
@@ -27800,10 +25945,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Camera Control Button Integrated MagSafe Clear Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007347111A.jpg</URL>
@@ -27864,10 +26005,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro Four-Corner Shockproof Clear TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA004827114A.jpg</URL>
       <MAIN>true</MAIN>
@@ -27918,10 +26055,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 MagSafe Clear Acrylic PC Hybrid TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006634715A.jpg</URL>
@@ -27982,10 +26115,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro Large Hole Camera MagSafe Magnetic Clear Acrylic TPU Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006727310A.jpg</URL>
       <MAIN>true</MAIN>
@@ -28036,10 +26165,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro Kalebol High-Aluminum Screen-Printed Full-Coverage Black-Border Privacy Tempered Glass Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/SYA003060741.jpg</URL>
@@ -28100,10 +26225,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro 25pcs High-Aluminum Semi-Screen Anti-Fingerprint HD Tempered Glass Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/SYA003290741.jpg</URL>
       <MAIN>true</MAIN>
@@ -28155,10 +26276,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Fold Armor MagSafe PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009819201A.jpg</URL>
       <MAIN>true</MAIN>
@@ -28205,10 +26322,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro Kalebol 10pcs High-Aluminum Semi-Screen Anti-Fingerprint HD Tempered Glass Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/SYA003064141.jpg</URL>
@@ -28269,10 +26382,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro 25pcs High-Aluminum Full-Coverage Anti-Fingerprint Screen-Printed HD Tempered Glass Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/SYA003290841.jpg</URL>
       <MAIN>true</MAIN>
@@ -28331,10 +26440,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro 25pcs High-Aluminum Full-Coverage Anti-Fingerprint Screen-Printed Privacy Tempered Glass Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/SYA003290941.jpg</URL>
@@ -28395,10 +26500,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro Kalebol AR+AF Anti-Reflective Armor Full-Coverage Metal Lens Ring Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/SYA003382902A.jpg</URL>
       <MAIN>true</MAIN>
@@ -28449,10 +26550,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro 10pcs Kalebol High-Aluminum Screen-Printed Full-Coverage Anti-Fingerprint Black-Bordered HD Tempered Glass Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/SYA003060541.jpg</URL>
@@ -28513,10 +26610,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 17 Pro Max Skin Feel Frosted Liquid Silicone 360 Rotating Holder Magnetic Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009818801A.jpg</URL>
       <MAIN>true</MAIN>
@@ -28572,10 +26665,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Fold Armor Magnetic Holder PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009819301A.jpg</URL>
       <MAIN>true</MAIN>
@@ -28627,10 +26716,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Fold Armor Big Pore PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009819101A.jpg</URL>
       <MAIN>true</MAIN>
@@ -28674,10 +26759,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Fold Armor Big Pore PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009819001A.jpg</URL>
       <MAIN>true</MAIN>
@@ -28720,10 +26801,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro Textured Non-slip Shockproof Magnetic Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009818704A.jpg</URL>
@@ -28784,10 +26861,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Armor Precise Hole PC Hybrid TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006578812A.jpg</URL>
       <MAIN>true</MAIN>
@@ -28846,10 +26919,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro Sliding Camera Cover Design TPU+PC Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA004786316A.jpg</URL>
@@ -28910,10 +26979,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro 10pcs Kalebol High-Aluminum Screen-Printed Full-Coverage Black-Border Privacy Tempered Glass Film</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/SYA003060841.jpg</URL>
       <MAIN>true</MAIN>
@@ -28972,10 +27037,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 MagSafe Clear Acrylic PC +TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA004784310A.jpg</URL>
@@ -29036,10 +27097,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro Gradient Color MagSafe Airbag Full Coverage Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006956727A.jpg</URL>
       <MAIN>true</MAIN>
@@ -29086,10 +27143,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Armor Glaze PC Hybrid TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007225338A.jpg</URL>
@@ -29150,10 +27203,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Shockproof Armor Phone Case with Card Slot</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006701810A.jpg</URL>
       <MAIN>true</MAIN>
@@ -29208,10 +27257,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Armor Precise Hole PC Hybrid TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006577312A.jpg</URL>
@@ -29272,10 +27317,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro kalebol MagSafe Metal Ring Holder Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008475507A.jpg</URL>
       <MAIN>true</MAIN>
@@ -29330,10 +27371,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rumena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 25pcs High Aluminum 380 Glue Silk Screen Printed Tempered Glass Film</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009102710.jpg</URL>
@@ -29394,10 +27431,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone Fold imak 9H Surface Hardness Full Screen Tempered Glass Film Pro+ Series</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009771601.jpg</URL>
       <MAIN>true</MAIN>
@@ -29453,10 +27486,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Full Coverage Shockproof TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006555910A.jpg</URL>
       <MAIN>true</MAIN>
@@ -29511,10 +27540,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro kalebol Honeycomb Cooling MagSafe Holder Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008481521A.jpg</URL>
@@ -29575,10 +27600,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Roza</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Colorful Series Acrylic + TPU Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008229405A.jpg</URL>
       <MAIN>true</MAIN>
@@ -29633,10 +27654,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Vijolična</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro Flower Pattern IMD Glitter Magnetic Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009236010A.jpg</URL>
@@ -29693,10 +27710,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro Blink Series Metal Lens Frame MagSafe Magnetic IMD Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007418418A.jpg</URL>
       <MAIN>true</MAIN>
@@ -29751,10 +27764,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Zelena</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro PC + TPU Magnetic Phone Case with Invisible Ring Holder</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA006969310A.jpg</URL>
@@ -29811,10 +27820,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Modra</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro Contrast Color Gradient Transparent MagSafe Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008111827A.jpg</URL>
       <MAIN>true</MAIN>
@@ -29865,10 +27870,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro Crystal Shield Clear Magnetic Acrylic Hybrid TPU Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008877122A.jpg</URL>
@@ -29924,10 +27925,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Bela</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Armor Glaze MagSafe Magnetic Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA007942106A.jpg</URL>
@@ -29988,10 +27985,6 @@
       <NAME>COLOR</NAME>
       <VALUE>Rdeča</VALUE>
     </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 Pro Kalebol 360-degree Rotating MagSafe Magnetic Holder Phone Case</VALUE>
-    </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA008486609A.jpg</URL>
       <MAIN>true</MAIN>
@@ -30046,10 +28039,6 @@
     <PARAM>
       <NAME>COLOR</NAME>
       <VALUE>Črna</VALUE>
-    </PARAM>
-    <PARAM>
-      <NAME>COMPATIBILITY</NAME>
-      <VALUE>iPhone 18 PC Hybrid TPU Airbag Shockproof MagSafe Phone Case</VALUE>
     </PARAM>
     <MEDIA>
       <URL>https://img.myipadbox.com/sec/product_raw/EDA009027716A.jpg</URL>
